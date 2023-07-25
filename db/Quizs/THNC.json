@@ -1,0 +1,254 @@
+[
+  {
+    "Id": 26001,
+    "Text": "Bộ nhớ truy nhập trực tiếp RAM được viết tắt từ, bạn sử dụng lựa chọn nào?",
+    "Mark": 1,
+    "AnswerId": 18002,
+    "Answers": [
+      { "Id": 18001, "Text": "Read Access Memory" },
+      { "Id": 18002, "Text": "Random Access Memory" },
+      { "Id": 18003, "Text": "Rewrite Access Memory" },
+      { "Id": 18004, "Text": "Cả ba đều sai" }
+    ]
+  },
+  {
+    "Id": 26002,
+    "Text": "Việc tải file dữ liệu từ internet bị chậm là do nguyên nhân, bạn sử dụng lựa chọn nào?",
+    "Mark": 1,
+    "AnswerId": 18008,
+    "Answers": [
+      { "Id": 18005, "Text": "File có dung lượng lớn" },
+      { "Id": 18006, "Text": "Server cung cấp dịch vụ internet bị quá tải" },
+      { "Id": 18007, "Text": "Đường truyền internet tốc độ thấp" },
+      { "Id": 18008, "Text": "Cả 3 ý trên đều đúng" }
+    ]
+  },
+  {
+    "Id": 26003,
+    "Text": "CPU là viết tắt của cụm từ nào, bạn sử dụng lựa chọn nào?",
+    "Mark": 1,
+    "AnswerId": 18012,
+    "Answers": [
+      {
+        "Id": 18009,
+        "Text": "Common Processing Unit"
+      },
+      { "Id": 18010, "Text": "Control Processing Unit" },
+      { "Id": 18011, "Text": "Case Processing Unit" },
+      { "Id": 18012, "Text": "Central Processing Unit" }
+    ]
+  },
+  {
+    "Id": 26004,
+    "Text": "Phần mềm nào là phần mềm ứng dụng?",
+    "Mark": 1,
+    "AnswerId": 18016,
+    "Answers": [
+      { "Id": 18013, "Text": "Microsoft Powerpoint" },
+      { "Id": 18014, "Text": "Microsoft Word" },
+      { "Id": 18015, "Text": "Microsoft Excel" },
+      { "Id": 18016, "Text": "Cả 3 ý trên" }
+    ]
+  },
+  {
+    "Id": 26005,
+    "Text": "Để truy cập Internet, người ta dùng chương trình nào sau đây, bạn sử dụng lựa chọn nào?",
+    "Mark": 1,
+    "AnswerId": 18019,
+    "Answers": [
+      { "Id": 18017, "Text": "Microsoft Excel" },
+      { "Id": 18018, "Text": "Microsoft Word" },
+      { "Id": 18019, "Text": "Internet Explorer" },
+      { "Id": 18020, "Text": "Wordpad" }
+    ]
+  },
+  {
+    "Id": 26006,
+    "Text": "Các phần mềm dùng để nén tập tin, bạn sử dụng lựa chọn nào?",
+    "Mark": 1,
+    "AnswerId": 18021,
+    "Answers": [
+      { "Id": 18021, "Text": "Winzip, Winrar, Total Commander" },
+      { "Id": 18022, "Text": "Winzip, Winword, Window Explorer" },
+      { "Id": 18023, "Text": "Winzip, Winword, Excel" },
+      { "Id": 18024, "Text": "Winzip, Window, Total Commander " }
+    ]
+  },
+  {
+    "Id": 26007,
+    "Text": "Các bộ mã dùng để gõ dấu tiếng Việt, bạn sử dụng lựa chọn nào?",
+    "Mark": 1,
+    "AnswerId": 18028,
+    "Answers": [
+      { "Id": 18025, "Text": "Unicode, X UTF-8, Vietware X" },
+      { "Id": 18026, "Text": "Unicode, TCVN, VIQRŸ" },
+      { "Id": 18027, "Text": "Unicode, TCVN, X UTF-8" },
+      { "Id": 18028, "Text": "Unicode, TCVN, Vietware F" }
+    ]
+  },
+  {
+    "Id": 26008,
+    "Text": "Theo bạn, các phần mềm sau thuộc nhóm phần mềm nào: MS Word, MS Excel, MS Access, MS PowerPoint, MS , bạn sử dụng lựa chọn nào?",
+    "Mark": 1,
+    "AnswerId": 18030,
+    "Answers": [
+      { "Id": 18029, "Text": "Nhóm phần mềm hệ điều hành" },
+      { "Id": 18030, "Text": "Nhóm phần mềm ứng dụng" },
+      { "Id": 18031, "Text": "Nhóm phần mềm CSDL" },
+      { "Id": 18032, "Text": "Nhóm phần mềm hệ thống" }
+    ]
+  },
+  {
+    "Id": 26009,
+    "Text": "Thiết bị nhập chuẩn bao gồm gì, bạn sử dụng lựa chọn nào?",
+    "Mark": 1,
+    "AnswerId": 18035,
+    "Answers": [
+      { "Id": 18033, "Text": "Màn hình, máy in" },
+      { "Id": 18034, "Text": "Bàn phím, máy in" },
+      { "Id": 18035, "Text": "Chuột, bàn phím" },
+      { "Id": 18036, "Text": "Máy in, chuột" }
+    ]
+  },
+  {
+    "Id": 26010,
+    "Text": "Để tắt máy tính ta chọn chức năng nào sau đây?",
+    "Mark": 1,
+    "AnswerId": 18040,
+    "Answers": [
+      { "Id": 18037, "Text": "Log off" },
+      { "Id": 18038, "Text": "Restart" },
+      { "Id": 18039, "Text": "Sleep" },
+      { "Id": 18040, "Text": "Shutdown" }
+    ]
+  },
+  {
+    "Id": 26011,
+    "Text": "Thiết bị nào sau đây dùng để kết nối mạng?",
+    "Mark": 1,
+    "AnswerId": 18041,
+    "Answers": [
+      { "Id": 18041, "Text": "Bộ nhớ trong, Bộ nhớ ngoài" },
+      { "Id": 18042, "Text": "Cache, Bộ nhớ ngoài" },
+      { "Id": 18043, "Text": "Bộ nhớ ngoài, ROM" },
+      { "Id": 18044, "Text": "Đĩa quang, Bộ nhớ trong" }
+    ]
+  },
+  {
+    "Id": 26012,
+    "Text": "Thiết bị nào sau đây dùng để kết nối mạng?",
+    "Mark": 1,
+    "AnswerId": 18047,
+    "Answers": [
+      { "Id": 18045, "Text": "Ram" },
+      { "Id": 18046, "Text": "Rom" },
+      { "Id": 18047, "Text": "Router " },
+      { "Id": 18048, "Text": "CPU" }
+    ]
+  },
+  {
+    "Id": 26013,
+    "Text": "Trong mạng máy tính, thuật ngữ Share có ý nghĩa gì?",
+    "Mark": 1,
+    "AnswerId": 18049,
+    "Answers": [
+      { "Id": 18049, "Text": "Chia sẻ tài nguyên" },
+      { "Id": 18050, "Text": "Nhãn hiệu của một thiết bị kết nối mạng" },
+      { "Id": 18051, "Text": "Thực hiện lệnh in trong mạng cục bộ" },
+      { "Id": 18052, "Text": "Một phần mềm hỗ trợ sử dụng mạng cục bộ" }
+    ]
+  },
+  {
+    "Id": 26014,
+    "Text": "Bộ nhớ RAM và ROM là bộ nhớ gì?",
+    "Mark": 1,
+    "AnswerId": 18053,
+    "Answers": [
+      { "Id": 18053, "Text": "Primary memory" },
+      { "Id": 18054, "Text": "Receive memory" },
+      { "Id": 18055, "Text": "Secondary memory" },
+      { "Id": 18056, "Text": "Random access memory" }
+    ]
+  },
+  {
+    "Id": 26015,
+    "Text": "Khái niệm hệ điều hành là gì ?",
+    "Mark": 1,
+    "AnswerId": 18060,
+    "Answers": [
+      { "Id": 18057, "Text": "Cung cấp và xử lý các phần cứng và phần mềm" },
+      {
+        "Id": 18058,
+        "Text": "Nghiên cứu phương pháp, kỹ thuật xử lý thông tin bằng máy tính điện tử"
+      },
+      { "Id": 18059, "Text": "Nghiên cứu về công nghệ phần cứng và phần mềm" },
+      {
+        "Id": 18060,
+        "Text": "Là một phần mềm chạy trên máy tính, dùng để điều hành, quản lý các thiết bị phần cứng và các tài nguyên phần mềm trên máy tính"
+      }
+    ]
+  },
+  {
+    "Id": 26016,
+    "Text": "Công dụng của phím Print Screen là gì?",
+    "Mark": 1,
+    "AnswerId": 18064,
+    "Answers": [
+      { "Id": 18061, "Text": "In màn hình hiện hành ra máy in." },
+      { "Id": 18062, "Text": "Không có công dụng gì khi sử dụng 1 mình nó." },
+      { "Id": 18063, "Text": "In văn bản hiện hành ra máy in." },
+      { "Id": 18064, "Text": "Chụp màn hình hiện hành." }
+    ]
+  },
+  {
+    "Id": 26017,
+    "Text": "Chức năng Bookmark của trình duyệt web dùng để:",
+    "Mark": 1,
+    "AnswerId": 18066,
+    "Answers": [
+      { "Id": 18065, "Text": "Lưu trang web về máy tính" },
+      { "Id": 18066, "Text": "Đánh dấu trang web trên trình duyệt" },
+      { "Id": 18067, "Text": "Đặt làm trang chủ" },
+      { "Id": 18068, "Text": "Tất cả đều đúng" }
+    ]
+  },
+  {
+    "Id": 26018,
+    "Text": "Nếu không kết nối được mạng, bạn vẫn có thể thực hiện được hoạt động nào?",
+    "Mark": 1,
+    "AnswerId": 18072,
+    "Answers": [
+      { "Id": 18069, "Text": "Gửi email" },
+      { "Id": 18070, "Text": "Viết thư" },
+      { "Id": 18071, "Text": "Xem 1 trang web" },
+      { "Id": 18072, "Text": "In trên máy in sử dụng chung cài đặt ở máy khác" }
+    ]
+  },
+  {
+    "Id": 26019,
+    "Text": "Khả năng xử lý của máy tính phụ thuộc vào … bạn sử dụng lựa chọn nào?",
+    "Mark": 1,
+    "AnswerId": 18076,
+    "Answers": [
+      {
+        "Id": 18073,
+        "Text": "Tốc độ CPU, dung lượng bộ nhớ RAM, dung lượng và tốc độ ổ cứng."
+      },
+      { "Id": 18074, "Text": "Yếu tố đa nhiệm" },
+      { "Id": 18075, "Text": "Hiện tượng phân mảnh ổ đĩa." },
+      { "Id": 18076, "Text": "Cả 3 phần trên đều đúng." }
+    ]
+  },
+  {
+    "Id": 26020,
+    "Text": "Thiết bị xuất của máy tính gồm?",
+    "Mark": 1,
+    "AnswerId": 18078,
+    "Answers": [
+      { "Id": 18077, "Text": "Bàn phím, màn hình, chuột" },
+      { "Id": 18078, "Text": "Màn hình, máy in." },
+      { "Id": 18079, "Text": "Chuột, màn hình, CPU" },
+      { "Id": 18080, "Text": "Bàn phím, màn hình, loa" }
+    ]
+  }
+]

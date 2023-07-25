@@ -1,0 +1,312 @@
+[{
+    "Id": 160401,
+    "Text": " Khi đang làm việc với Excel, tổ hợp phím nào cho phép ngay lập tức đưa con trỏ về ô đầu tiên (ô A1) của bảng tính?",
+    "Marks": 1,
+    "AnswerId": 290102,
+    "Answers": [
+        { "Id": 290100, "Text": "Shift + Home" },
+        { "Id": 290101, "Text": "Alt + Home" },
+        { "Id": 290102, "Text": "Ctrl + Home" },
+        { "Id": 290103, "Text": "Shift + Ctrl + Home" }
+    ]
+},
+{
+    "Id": 160402,
+    "Text": " Trong khi làm việc với Excel, để nhập vào công thức tính toán cho một ô, trước hết ta phải gõ:",
+    "Marks": 1,
+    "AnswerId": 290105,
+    "Answers": [
+        { "Id": 290104, "Text": "Dấu chấm hỏi (?)" },
+        { "Id": 290105, "Text": "Dấu bằng (=)" },
+        { "Id": 290106, "Text": "Dấu hai chấm (:)" },
+        { "Id": 290107, "Text": "Dấu đô la ($)" }
+    ]
+}, {
+    "Id": 160403,
+    "Text": " Trong bảng tính Excel, nếu trong một ô tính có các kí hiệu #####, điều đó có nghĩa là gì?",
+    "Marks": 1,
+    "AnswerId": 290111,
+    "Answers": [
+        { "Id": 290108, "Text": "Chương trình bảng tính bị nhiễm virus" },
+        { "Id": 290109, "Text": "Công thức nhập sai và Excel thông báo lỗi" },
+        { "Id": 290110, "Text": "Hàng chứa ô đó có độ cao quá thấp nên không hiển thị hết chữ số" },
+        { "Id": 290111, "Text": "Cột chứa ô đó có độ rộng quá hẹp nên không hiển thị hết chữ số" }
+    ]
+}, {
+    "Id": 160404,
+    "Text": "  Lệnh Ctrl + F trong Excel có tác dụng gì?",
+    "Marks": 1,
+    "AnswerId": 290112,
+    "Answers": [
+        { "Id": 290112, "Text": "Tìm kiếm một chuỗi ký tự nào đó" },
+        { "Id": 290113, "Text": "Thay thế chuỗi ký tự này bằng ký tự khác" },
+        { "Id": 290114, "Text": "Xoá bỏ các ký tự vừa tìm được" },
+        { "Id": 290115, "Text": "Tất cả các đáp án trên" }
+    ]
+}, {
+    "Id": 160405,
+    "Text": "Khi vào Format Cells, thẻ Border có tác dụng gì?",
+    "Marks": 1,
+    "AnswerId": 290117,
+    "Answers": [
+        { "Id": 290116, "Text": " Chỉnh Font chữ cho đoạn văn" },
+        { "Id": 290117, "Text": "Tạo khung viền cho bảng tính cần chọn" },
+        { "Id": 290118, "Text": "Chỉnh màu cho chữ" },
+        { "Id": 290119, "Text": "Tất cả các đáp án trên" }
+    ]
+}, {
+    "Id": 160406,
+    "Text": "Trong excel, chúng ta chọn thẻ Margins trong Page setup để làm gì?",
+    "Marks": 1,
+    "AnswerId": 290122,
+    "Answers": [
+        { "Id": 290120, "Text": "Chỉnh cỡ giấy khi in" },
+        { "Id": 290121, "Text": " Chỉnh hướng giấy in" },
+        { "Id": 290122, "Text": "Căn chỉnh lề đoạn văn cần in" },
+        { "Id": 290123, "Text": "Tất cả các đáp án trên" }
+    ]
+}, {
+    "Id": 160407,
+    "Text": "Để có thể cuộn chữ thành nhiều dòng trong ô, ta dùng",
+    "Marks": 1,
+    "AnswerId": 290124,
+    "Answers": [
+        { "Id": 290124, "Text": "Format Cells, chọn Wrap Text" },
+        { "Id": 290125, "Text": " Format Cells, Chọn Shrink to fit" },
+        { "Id": 290126, "Text": "Cả A và B đều sai" },
+        { "Id": 290127, "Text": "Cả A và B đều đúng" }
+    ]
+}, {
+    "Id": 160408,
+    "Text": "Công thức sau : = ROUND(10/7;1) ?",
+    "Marks": 1,
+    "AnswerId": 290124,
+    "Answers": [
+        { "Id": 290128, "Text": "1,3" },
+        { "Id": 290129, "Text": "1,4" },
+        { "Id": 290130, "Text": "1,5" },
+        { "Id": 290131, "Text": "1,6" }
+    ]
+}, {
+    "Id": 160409,
+    "Text": "Khi di chuyển con trỏ trong bảng, tổ hợp phím Shift + Tab dùng để",
+    "Marks": 1,
+    "AnswerId": 290132,
+    "Answers": [
+        { "Id": 290132, "Text": "Di chuyển con trỏ đến ô liền trước" },
+        { "Id": 290133, "Text": "Di chuyển con trỏ đến hàng trên" },
+        { "Id": 290134, "Text": "Thêm 1 tab vào ô" },
+        { "Id": 290135, "Text": "Tất cả các đáp án đều sai" }
+    ]
+}, {
+    "Id": 160410,
+    "Text": "Khi gõ công thức xong, rồi Enter, máy hiện ra #N/A có nghĩa là",
+    "Marks": 1,
+    "AnswerId": 290139,
+    "Answers": [
+        { "Id": 290136, "Text": "Không tìm thấy tên hàm" },
+        { "Id": 290137, "Text": "Giá trị tham chiếu không tồn tại" },
+        { "Id": 290138, "Text": "Không tham chiếu đến được" },
+        { "Id": 290139, "Text": "Tập hợp rỗng" }
+    ]
+}, {
+    "Id": 160411,
+    "Text": " Excel đưa ra bao nhiêu loại phép toán chính",
+    "Marks": 1,
+    "AnswerId": 290141,
+    "Answers": [
+        { "Id": 290140, "Text": "3 loại" },
+        { "Id": 290141, "Text": "4 loại" },
+        { "Id": 290142, "Text": "5 loại" },
+        { "Id": 290143, "Text": "Tất cả các đáp án đều sai" }
+    ]
+}, {
+    "Id": 160412,
+    "Text": "Trong Excel, tổ hợp phím nào thực hiện việc tạo mới một bảng tính",
+    "Marks": 1,
+    "AnswerId": 290145,
+    "Answers": [
+        { "Id": 290144, "Text": "Shift + Ctrl + N" },
+        { "Id": 290145, "Text": "Ctrl + N" },
+        { "Id": 290146, "Text": "Ctrl + A" },
+        { "Id": 290147, "Text": "Tất cả các đáp án trên" }
+    ]
+}, {
+    "Id": 160412,
+    "Text": "Trước khi tạo bảng Pivot Table, ta phải kiểm tra lại xem bảng tính đã",
+    "Marks": 1,
+    "AnswerId": 290150,
+    "Answers": [
+        { "Id": 290148, "Text": "Đã sort theo thứ tự chưa" },
+        { "Id": 290149, "Text": "Đã có vùng tổng hợp chưa" },
+        { "Id": 290150, "Text": "Đã là tiêu chuẩn của cơ sở dữ liệu chưa" },
+        { "Id": 290151, "Text": "Tất cả các đáp án trên" }
+    ]
+}, {
+    "Id": 160413,
+    "Text": "Trong Excel cú pháp hàm COUNTIF nào đúng?",
+    "Marks": 1,
+    "AnswerId": 290152,
+    "Answers": [
+        { "Id": 290152, "Text": "COUNTIF(range,criteria)" },
+        { "Id": 290153, "Text": "COUNTIF(criteria,range)" },
+        { "Id": 290154, "Text": "COUNTIF(criteria,range,col_index_num)" },
+        { "Id": 290155, "Text": "COUNTIF(range,criteria,col_index_num)" }
+    ]
+}, {
+    "Id": 160414,
+    "Text": "Trong Excel, giả sử ô A1 của bảng tính lưu trị ngày 15/10/1970. Kết quả hàm =MONTH(A1) là bao nhiêu?",
+    "Marks": 1,
+    "AnswerId": 290152,
+    "Answers": [
+        { "Id": 290156, "Text": "VALUE#?" },
+        { "Id": 290157, "Text": "15" },
+        { "Id": 290158, "Text": "1970" },
+        { "Id": 290159, "Text": "10" }
+    ]
+}, {
+    "Id": 160415,
+    "Text": "Trong Excel cú pháp hàm SUMIF nào là đúng:",
+    "Marks": 1,
+    "AnswerId": 290160,
+    "Answers": [
+        { "Id": 290160, "Text": "SumIf(range, criteria,[sum_range])" },
+        { "Id": 290161, "Text": "SumIf(criteria, range,[sum_range])" },
+        { "Id": 290162, "Text": "SumIf(range)" },
+        { "Id": 290163, "Text": "SumIf(range, criteria)" }
+    ]
+}, {
+    "Id": 160416,
+    "Text": "Khi đang làm việc với Excel, có thể di chuyển từ sheet này sang sheet khác bằng cách sử dụng các phím hoặc các tổ hợp phím:",
+    "Marks": 1,
+    "AnswerId": 290165,
+    "Answers": [
+        { "Id": 290164, "Text": "Page Up ; Page Down" },
+        { "Id": 290165, "Text": "Ctrl+Page Up ; Ctrl+Page Down" },
+        { "Id": 290166, "Text": "Shift+Page Up; Shift+Page Down" },
+        { "Id": 290167, "Text": "Cả 3 câu đều sai" }
+    ]
+}, {
+    "Id": 160417,
+    "Text": "Trong Excel, để chọn toàn bộ các ô trên bảng tính, bạn chọn",
+    "Marks": 1,
+    "AnswerId": 290168,
+    "Answers": [
+        { "Id": 290168, "Text": "Ctrl + A" },
+        { "Id": 290169, "Text": "Ctrl + Alt" },
+        { "Id": 290170, "Text": "Ctrl + Alt + Spacebar" },
+        { "Id": 290171, "Text": "Tất cả đáp án đều sai" }
+    ]
+}, {
+    "Id": 160417,
+    "Text": "Trong bảng tính Excel, hàm nào sau đây cho phép tính tổng các giá trị kiểu số thỏa mãn một điều kiện cho trước?",
+    "Marks": 1,
+    "AnswerId": 290175,
+    "Answers": [
+        { "Id": 290172, "Text": "SUM" },
+        { "Id": 290173, "Text": "COUNTIF" },
+        { "Id": 290174, "Text": "COUNT" },
+        { "Id": 290175, "Text": "SUMIF" }
+    ]
+}, {
+    "Id": 160417,
+    "Text": "Trong Excel, hàm tính giá trị lớn nhất trong các ô thuộc khối ô C12:C15 là:",
+    "Marks": 1,
+    "AnswerId": 290177,
+    "Answers": [
+        { "Id": 290176, "Text": "Max C12:C15" },
+        { "Id": 290177, "Text": "Max(C12:C15)" },
+        { "Id": 290178, "Text": "Max(C12,C15)" },
+        { "Id": 290179, "Text": "Max(C12;C15)" }
+    ]
+}, {
+    "Id": 160418,
+    "Text": "Trong bảng tính Excel, tại ô A2 gõ vào công thức =MAX(30;10;65;5) thì nhận được kết quả tại ô A2 là:",
+    "Marks": 1,
+    "AnswerId": 290182,
+    "Answers": [
+        { "Id": 290180, "Text": "30" },
+        { "Id": 290181, "Text": "5" },
+        { "Id": 290182, "Text": "65" },
+        { "Id": 290183, "Text": "110" }
+    ]
+}, {
+    "Id": 160419,
+    "Text": "Trong bảng tính Excel, hộp thoại Chart Wizard cho phép xác định các thông tin nào sau đây cho biểu đồ?",
+    "Marks": 1,
+    "AnswerId": 290187,
+    "Answers": [
+        { "Id": 290184, "Text": "Tiêu đề" },
+        { "Id": 290185, "Text": "Có đường lưới hay không" },
+        { "Id": 290186, "Text": "Chú giải cho các trục" },
+        { "Id": 290187, "Text": "Cả 3 câu đều đúng" }
+    ]
+}, {
+    "Id": 160420,
+    "Text": "Trong Excel, tại ô A2 có giá trị là số 2008. Tại ô B2 gõ công thức =LEN(A2) thì nhận được kết quả?",
+    "Marks": 1,
+    "AnswerId": 290190,
+    "Answers": [
+        { "Id": 290188, "Text": "#Value" },
+        { "Id": 290189, "Text": "0" },
+        { "Id": 290190, "Text": "4" },
+        { "Id": 290191, "Text": "2008" }
+    ]
+}, {
+    "Id": 160421,
+    "Text": "Trong bảng tính Excel, khối ô là tập hợp nhiều ô kế cận tạo thành hình chữ nhật, Địa chỉ khối ô được thể hiện như câu nào sau đây là đúng?",
+    "Marks": 1,
+    "AnswerId": 290193,
+    "Answers": [
+        { "Id": 290192, "Text": "B1...H15" },
+        { "Id": 290193, "Text": "B1:H15" },
+        { "Id": 290194, "Text": "B1-H15" },
+        { "Id": 290195, "Text": "B1&H15" }
+    ]
+}, {
+    "Id": 160422,
+    "Text": "Kết quả của công thức sau : = INT (SQRT (-4)) là",
+    "Marks": 1,
+    "AnswerId": 290199,
+    "Answers": [
+        { "Id": 290196, "Text": "2" },
+        { "Id": 290197, "Text": "-2" },
+        { "Id": 290198, "Text": "-4" },
+        { "Id": 290199, "Text": "Tất cả điều sai" }
+    ]
+}, {
+    "Id": 160423,
+    "Text": "Trong bảng tính Excel, muốn xóa hẳn một hàng ra khỏi trang tính, ta đánh dấu khối chọn hàng này và thực hiện:",
+    "Marks": 1,
+    "AnswerId": 290200,
+    "Answers": [
+        { "Id": 290200, "Text": "Nhấn chuột phải chọn Delete" },
+        { "Id": 290201, "Text": "Nhấn phím Delete" },
+        { "Id": 290202, "Text": "Nhấn phím Backspace" },
+        { "Id": 290203, "Text": "Nhấn phím End" }
+    ]
+}, {
+    "Id": 160424,
+    "Text": "Trong Excel, khi viết sai tên hàm trong tính toán, chương trình thông báo lỗi?",
+    "Marks": 1,
+    "AnswerId": 290204,
+    "Answers": [
+        { "Id": 290204, "Text": "#NAME!" },
+        { "Id": 290205, "Text": "#VALUE!" },
+        { "Id": 290206, "Text": "#N/A!" },
+        { "Id": 290207, "Text": "#DIV/0!" }
+    ]
+}, {
+    "Id": 160425,
+    "Text": "Trong bảng tính Excel, khi chiều dài dữ liệu kiểu số lớn hơn chiều rộng của ô thì sẽ hiện thị trong ô các kí tự:",
+    "Marks": 1,
+    "AnswerId": 290204,
+    "Answers": [
+        { "Id": 290204, "Text": "&" },
+        { "Id": 290205, "Text": "#" },
+        { "Id": 290206, "Text": "$" },
+        { "Id": 290207, "Text": "*" }
+    ]
+}
+
+]

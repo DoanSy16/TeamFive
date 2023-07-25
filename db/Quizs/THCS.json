@@ -1,0 +1,650 @@
+[
+  {
+    "Id": 25262,
+    "Text": "Hệ thống nhớ của máy tính bao gồm:",
+    "Marks": 1,
+    "AnswerId": 104715,
+    "Answers": [
+      {
+        "Id": 104712,
+        "Text": " Cache, Bộ nhớ ngoài"
+      },
+      {
+        "Id": 104713,
+        "Text": "Bộ nhớ ngoài, ROM"
+      },
+      {
+        "Id": 104714,
+        "Text": "Đĩa quang, Bộ nhớ trong"
+      },
+      {
+        "Id": 104715,
+        "Text": " Bộ nhớ trong, Bộ nhớ ngoài "
+      }
+    ]
+  },
+  {
+    "Id": 25263,
+    "Text": "Trong mạng máy tính, thuật ngữ Share có ý nghĩa gì?",
+    "Marks": 1,
+    "AnswerId": 104717,
+    "Answers": [
+      {
+        "Id": 104716,
+        "Text": "Thực hiện lệnh in trong mạng cục bộ"
+      },
+      {
+        "Id": 104717,
+        "Text": "Chia sẻ tài nguyên"
+      },
+      {
+        "Id": 104718,
+        "Text": "Một phần mềm hỗ trợ sử dụng mạng cục bộ"
+      },
+      {
+        "Id": 104719,
+        "Text": "Một phần mềm hỗ trợ sử dụng mạng cục bộ"
+      }
+    ]
+  },
+  {
+    "Id": 25264,
+    "Text": "Các thiết bị nào thông dụng nhất hiện nay dùng để cung cấp dữ liệu cho máy xử lý?",
+    "Marks": 1,
+    "AnswerId": 104720,
+    "Answers": [
+      {
+        "Id": 104720,
+        "Text": "Bàn phím (Keyboard), Chuột (Mouse) và Máy quét ảnh (Scaner)"
+      },
+      {
+        "Id": 104721,
+        "Text": "Bàn phím (Keyboard), Chuột (Mouse), Máy in (Printer)"
+      },
+      {
+        "Id": 104722,
+        "Text": "Máy quét ảnh (Scaner)"
+      },
+      {
+        "Id": 104723,
+        "Text": "Máy quét ảnh (Scaner), Chuột (Mouse)"
+      }
+    ]
+  },
+  {
+    "Id": 25265,
+    "Text": "Khái niệm hệ điều hành là gì ? ",
+    "Marks": 1,
+    "AnswerId": 104727,
+    "Answers": [
+      {
+        "Id": 104724,
+        "Text": "Cung cấp và xử lý các phần cứng và phần mềm"
+      },
+      {
+        "Id": 104725,
+        "Text": "Nghiên cứu phương pháp, kỹ thuật xử lý thông tin bằng máy tính điện tử "
+      },
+      {
+        "Id": 104726,
+        "Text": "Nghiên cứu về công nghệ phần cứng và phần mềm"
+      },
+      {
+        "Id": 104727,
+        "Text": "Là một phần mềm chạy trên máy tính, dùng để điều hành, quản lý các"
+      }
+    ]
+  },
+  {
+    "Id": 25266,
+    "Text": "Cho biết cách xóa một tập tin hay thư mục mà không di chuyển vào Recycle Bin:?",
+    "Marks": 1,
+    "AnswerId": 104729,
+    "Answers": [
+      {
+        "Id": 104728,
+        "Text": "Chọn thư mục hay tâp tin cần xóa -> Delete"
+      },
+      {
+        "Id": 104729,
+        "Text": "Chọn thư mục hay tâp tin cần xóa -> Shift + Delete"
+      },
+      {
+        "Id": 104730,
+        "Text": "Chọn thư mục hay tâp tin cần xóa -> Alt + Delete"
+      },
+      {
+        "Id": 104731,
+        "Text": " Chọn thư mục hay tâp tin cần xóa -> Ctrl + Delete "
+      }
+    ]
+  },
+  {
+    "Id": 25267,
+    "Text": "Danh sách các mục chọn trong thực đơn gọi là :",
+    "Marks": 1,
+    "AnswerId": 104733,
+    "Answers": [
+      {
+        "Id": 104732,
+        "Text": "Menu pad  "
+      },
+      {
+        "Id": 104733,
+        "Text": "Menu bar"
+      },
+      {
+        "Id": 104734,
+        "Text": "Menu options"
+      },
+      {
+        "Id": 104735,
+        "Text": "Tất cả đều sai"
+      }
+    ]
+  },
+  {
+    "Id": 25268,
+    "Text": "Công dụng của phím Print Screen là gì? ",
+    "Marks": 1,
+    "AnswerId": 104740,
+    "Answers": [
+      {
+        "Id": 104737,
+        "Text": "Không có công dụng gì khi sử dụng 1 mình nó."
+      },
+      {
+        "Id": 104738,
+        "Text": "In văn bản hiện hành ra máy in"
+      },
+      {
+        "Id": 104739,
+        "Text": "In màn hình hiện hành ra máy in "
+      },
+      {
+        "Id": 104740,
+        "Text": "Chụp màn hình hiện hành"
+      }
+    ]
+  },
+  {
+    "Id": 25269,
+    "Text": "Nếu bạn muốn làm cho cửa sổ nhỏ hơn (không kín màn hình), bạn nên sử nút nào?",
+    "Marks": 1,
+    "AnswerId": 104742,
+    "Answers": [
+      {
+        "Id": 104741,
+        "Text": "Maximum"
+      },
+      {
+        "Id": 104742,
+        "Text": "Minimum "
+      },
+      {
+        "Id": 104743,
+        "Text": "confirmEqual"
+      },
+      {
+        "Id": 104744,
+        "Text": " Close"
+      }
+    ]
+  },
+  {
+    "Id": 25270,
+    "Text": "Trong soạn thảo Word, công dụng của tổ hợp phím Ctrl - S là:",
+    "Marks": 1,
+    "AnswerId": 104746,
+    "Answers": [
+      {
+        "Id": 104745,
+        "Text": "Định dạng chữ hoa"
+      },
+      {
+        "Id": 104746,
+        "Text": "Lưu nội dung tập tin văn bản vào đĩa"
+      },
+      {
+        "Id": 104747,
+        "Text": "Tạo một văn bản mới "
+      },
+      {
+        "Id": 104748,
+        "Text": " Chức năng thay thế nội dung trong soạn thảo"
+      }
+    ]
+  },
+  {
+    "Id": 25271,
+    "Text": "Trong Powerpoint muốn đánh số trang cho từng Slide ta dùng lệnh nào sau đây:",
+    "Marks": 1,
+    "AnswerId": 104751,
+    "Answers": [
+      {
+        "Id": 104749,
+        "Text": "Format \\ Bullets and Number.ster"
+      },
+      {
+        "Id": 104750,
+        "Text": " Insert\\ Bullets and Numbering"
+      },
+      {
+        "Id": 104751,
+        "Text": "Insert \\ Text \\ Slide Number"
+      },
+      {
+        "Id": 104752,
+        "Text": "Các câu trên đều sai"
+      }
+    ]
+  },
+  {
+    "Id": 25272,
+    "Text": "Khi một dòng chủ đề trong thư ta nhận được bắt đầu bằng chữ RE:; thì thông thường thư là: ",
+    "Marks": 1,
+    "AnswerId": 104755,
+    "Answers": [
+      {
+        "Id": 104753,
+        "Text": "Thư rác, thư quảng cáo"
+      },
+      {
+        "Id": 104754,
+        "Text": "Thư mới"
+      },
+      {
+        "Id": 104755,
+        "Text": "Thư trả lời cho thư mà ta đã gởi trước đó"
+      },
+      {
+        "Id": 104756,
+        "Text": "Thư của nhà cung cấp dịch vụ E-mail mà ta đang sử dụng"
+      }
+    ]
+  },
+  {
+    "Id": 25273,
+    "Text": "Website Yahoo.com hoặc gmail.com cho phép người sử dụng thực hiện",
+    "Marks": 1,
+    "AnswerId": 104760,
+    "Answers": [
+      {
+        "Id": 104757,
+        "Text": "Nhận thư"
+      },
+      {
+        "Id": 104758,
+        "Text": "Gởi thư"
+      },
+      {
+        "Id": 104759,
+        "Text": "Tạo hộp thư"
+      },
+      {
+        "Id": 104760,
+        "Text": "3 lựa chọn trên đúng"
+      }
+    ]
+  },
+  {
+    "Id": 25274,
+    "Text": "Chức năng Bookmark của trình duyệt web dùng để:",
+    "Marks": 1,
+    "AnswerId": 104764,
+    "Answers": [
+      {
+        "Id": 104761,
+        "Text": "Lưu trang web về máy tính"
+      },
+      {
+        "Id": 104762,
+        "Text": "Đặt làm trang chủ"
+      },
+      {
+        "Id": 104763,
+        "Text": "Tất cả đều đúng"
+      },
+      {
+        "Id": 104764,
+        "Text": "Đánh dấu trang web trên trình duyệt "
+      }
+    ]
+  },
+  {
+    "Id": 25275,
+    "Text": "Nếu không kết nối được mạng, bạn vẫn có thể thực hiện được hoạt động nào sau đây",
+    "Marks": 1,
+    "AnswerId": 104768,
+    "Answers": [
+      {
+        "Id": 104765,
+        "Text": "Gửi email "
+      },
+      {
+        "Id": 104766,
+        "Text": "Viết thư"
+      },
+      {
+        "Id": 104767,
+        "Text": "Xem 1 trang web"
+      },
+      {
+        "Id": 104768,
+        "Text": "In trên may in sử dụng chung cài đặt ở máy khác "
+      }
+    ]
+  },
+  {
+    "Id": 25276,
+    "Text": "Khi muốn tìm kiếm thông tin trên mạng Internet, chúng ta cần ",
+    "Marks": 1,
+    "AnswerId": 104770,
+    "Answers": [
+      {
+        "Id": 104769,
+        "Text": "Tùy vào nội dung tìm kiếm mà kết nối đến các Websites cụ thể"
+      },
+      {
+        "Id": 104770,
+        "Text": "Tìm kiếm trên các Websites tìm kiếm chuyên dụng"
+      },
+      {
+        "Id": 104771,
+        "Text": "Tìm kiếm ở bất kỳ một Websites nào "
+      },
+      {
+        "Id": 104772,
+        "Text": "Tìm trong các sách danh bạ internet"
+      }
+    ]
+  },
+  {
+    "Id": 25277,
+    "Text": "Bộ nhớ truy nhập trực tiếp RAM được viết tắt từ, bạn sử dụng lựa chọn nào?",
+    "Marks": 1,
+    "AnswerId": 104774,
+    "Answers": [
+      {
+        "Id": 104773,
+        "Text": "Read Access Memory"
+      },
+      {
+        "Id": 104774,
+        "Text": "Random Access Memory"
+      },
+      {
+        "Id": 104775,
+        "Text": "Rewrite Access Memory"
+      },
+      {
+        "Id": 104776,
+        "Text": "Cả 3 câu đều đúng"
+      }
+    ]
+  },
+  {
+    "Id": 25278,
+    "Text": "Khả năng xử lý của máy tính phụ thuộc vào … ban sử dụng lựa chọn nào?",
+    "Marks": 1,
+    "AnswerId": 104777,
+    "Answers": [
+      {
+        "Id": 104777,
+        "Text": "Cả 3 phần trên đều đúng"
+      },
+      {
+        "Id": 104778,
+        "Text": "Tốc độ CPU, dung lượng bộ nhớ RAM, dung lượng và tốc độ ổ cứng."
+      },
+      {
+        "Id": 104779,
+        "Text": "Hiện tượng phân mảnh ổ đĩa"
+      },
+      {
+        "Id": 104780,
+        "Text": "SingleLaunchActivityTestCase2"
+      }
+    ]
+  },
+  {
+    "Id": 25279,
+    "Text": "Máy tính là gi?",
+    "Marks": 1,
+    "AnswerId": 104782,
+    "Answers": [
+      {
+        "Id": 104781,
+        "Text": "Là công cụ chỉ dùng để tính toán các phép tính thông thường."
+      },
+      {
+        "Id": 104782,
+        "Text": "Là công cụ cho phép xử lý thông tin một cách tự động. "
+      },
+      {
+        "Id": 104783,
+        "Text": "Là công cụ cho phép xử lý thông tin một cách thủ công."
+      },
+      {
+        "Id": 104784,
+        "Text": "Là công cụ không dùng để tính toán"
+      }
+    ]
+  },
+  {
+    "Id": 25280,
+    "Text": "Thiết bị xuất của máy tính gồm? ",
+    "Marks": 1,
+    "AnswerId": 104786,
+    "Answers": [
+      {
+        "Id": 104785,
+        "Text": "Bàn phím, màn hình, chuột "
+      },
+      {
+        "Id": 104786,
+        "Text": "Màn hình, máy in."
+      },
+      {
+        "Id": 104787,
+        "Text": "Chuột, màn hình, CPU"
+      },
+      {
+        "Id": 104788,
+        "Text": " Bàn phím, màn hình, loa"
+      }
+    ]
+  },
+  {
+    "Id": 25281,
+    "Text": "Trong ứng dụng windows Explorer, để chọn nhiều tập tin hay thư mục không liên tục ta thực hiện thao tác kết hợp phím … với click chuột.",
+    "Marks": 1,
+    "AnswerId": 104792,
+    "Answers": [
+      {
+        "Id": 104789,
+        "Text": "Shift "
+      },
+      {
+        "Id": 104790,
+        "Text": "Alt "
+      },
+      {
+        "Id": 104791,
+        "Text": "Tab "
+      },
+      {
+        "Id": 104792,
+        "Text": "Ctrl "
+      }
+    ]
+  },
+  {
+    "Id": 25282,
+    "Text": "Phím tắt để sao chép một đối tượng vào ClipBoard là: ",
+    "Marks": 1,
+    "AnswerId": 104794,
+    "Answers": [
+      {
+        "Id": 104793,
+        "Text": "Ctrl + X"
+      },
+      {
+        "Id": 104794,
+        "Text": "Ctrl + C"
+      },
+      {
+        "Id": 104795,
+        "Text": " Ctrl + V"
+      },
+      {
+        "Id": 104796,
+        "Text": "Ctrl + Z"
+      }
+    ]
+  },
+  {
+    "Id": 25283,
+    "Text": "Hộp điều khiển việc phóng to, thu nhỏ, đóng cửa sổ gọi là:",
+    "Marks": 1,
+    "AnswerId": 104798,
+    "Answers": [
+      {
+        "Id": 104797,
+        "Text": "Dialog box"
+      },
+      {
+        "Id": 104798,
+        "Text": "Control box"
+      },
+      {
+        "Id": 104799,
+        "Text": "List box"
+      },
+      {
+        "Id": 104800,
+        "Text": "Text box"
+      }
+    ]
+  },
+  {
+    "Id": 25284,
+    "Text": "Trong hệ điều hành windows chức năng Disk Defragment gọi là?",
+    "Marks": 1,
+    "AnswerId": 104801,
+    "Answers": [
+      {
+        "Id": 104801,
+        "Text": "Chống phân mảnh ổ cứng"
+      },
+      {
+        "Id": 104802,
+        "Text": "Làm giảm dung lượng ổ cứng"
+      },
+      {
+        "Id": 104803,
+        "Text": "Sao lưu dữ liệu ổ cứng"
+      },
+      {
+        "Id": 104804,
+        "Text": "Lau chùi tập tin rác ổ cứng"
+      }
+    ]
+  },
+  {
+    "Id": 25285,
+    "Text": "Trong soạn thảo word, công dụng của tổ hợp phím Ctrl + O dùng để",
+    "Marks": 1,
+    "AnswerId": 104807,
+    "Answers": [
+      {
+        "Id": 104805,
+        "Text": " Tạo một văn bản mới"
+      },
+      {
+        "Id": 104806,
+        "Text": "Đóng văn bản đang làm việc"
+      },
+      {
+        "Id": 104807,
+        "Text": "Mở 1 văn bản đã có trên máy tính"
+      },
+      {
+        "Id": 104808,
+        "Text": "Lưu văn bản đang làm việc"
+      }
+    ]
+  },
+  {
+    "Id": 25286,
+    "Text": "Câu nào sau đây sai khi nhập dữ liệu vào bảng tính Excel thì:",
+    "Marks": 1,
+    "AnswerId": 104806,
+    "Answers": [
+      {
+        "Id": 104805,
+        "Text": "Dữ liệu kiểu số sẽ mặc nhiên canh thẳng lề trái "
+      },
+      {
+        "Id": 104806,
+        "Text": "Dữ liệu kiểu ký tự sẽ mặc nhiên canh thẳng lề trái "
+      },
+      {
+        "Id": 104807,
+        "Text": "Dữ liệu kiểu thời gian sẽ mặc nhiên canh thẳng lề phải"
+      },
+      {
+        "Id": 104808,
+        "Text": "Dữ liệu kiểu ngày tháng sẽ mặc nhiên canh thẳng lề phả"
+      }
+    ]
+  },
+  {
+    "Id": 25287,
+    "Text": "Trong PowerPoint 2010 muốn chèn một đoạn nhạc vào Slide, ta dùng lệnh nào sau đây? ",
+    "Marks": 1,
+    "AnswerId": 104805,
+    "Answers": [
+      {
+        "Id": 104805,
+        "Text": "Insert -> Audio"
+      },
+      {
+        "Id": 104806,
+        "Text": "Insert -> Componen"
+      },
+      {
+        "Id": 104807,
+        "Text": "Insert -> Diagram"
+      },
+      {
+        "Id": 104808,
+        "Text": "Insert -> Comment"
+      }
+    ]
+  },
+  {
+    "Id": 25288,
+    "Text": "Tại một slide trong powerpoint ta dùng tổ hợp nào sau đây để xóa slide đó? ",
+    "Marks": 1,
+    "AnswerId": 104808,
+    "Answers": [
+      {
+        "Id": 104805,
+        "Text": "ALT + I + D"
+      },
+      {
+        "Id": 104806,
+        "Text": "ALT + E + F"
+      },
+      {
+        "Id": 104807,
+        "Text": "ALT + E + D"
+      },
+      {
+        "Id": 104808,
+        "Text": "ALT + W + P"
+      }
+    ]
+  }
+]

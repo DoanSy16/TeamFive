@@ -1,0 +1,257 @@
+[
+  {
+    "Id": 23900,
+    "Text": "Trong Powerpoint 2010, sau khi đã chèn một bảng vào slide, muốn chia ô hiện tại thành 2 ô",
+    "Mark": 1,
+    "AnswerId": 12893,
+    "Answers": [
+      { "Id": 12891, "Text": "Nhấn chuột phải và chọn Split Cells()" },
+      { "Id": 12892, "Text": "Vào Table -> Split Cells()" },
+      { "Id": 12893, "Text": "Nhấn chuột trái và chọn Split Cells()" },
+      { "Id": 12894, "Text": "Vào Home -> Split Cells()" }
+    ]
+  },
+  {
+    "Id": 23901,
+    "Text": "Trong Powerpoint 2010, sau khi đã chèn một bảng vào slide, muốn xóa cột nào đó",
+    "Mark": 1,
+    "AnswerId": 12898,
+    "Answers": [
+      {
+        "Id": 12895,
+        "Text": " Chọn cột cần xóa, nhấn chuột phải và chọn Split Cells()"
+      },
+      {
+        "Id": 12896,
+        "Text": "Chọn cột cần xóa, nhấn chuột phải và chọn Merge Cells()"
+      },
+      {
+        "Id": 12897,
+        "Text": "Chọn cột cần xóa, nhấn chuột trái và chọn Delete Columns()"
+      },
+      {
+        "Id": 12898,
+        "Text": "Chọn cột cần xóa, nhấn chuột phải và chọn Delete Columns()"
+      }
+    ]
+  },
+  {
+    "Id": 23902,
+    "Text": "Trong Powerpoint 2010, lần lượt nhấn phím ALT, phím H, phím 1 tương ứng với tổ hợp phím nào sau đây",
+    "Mark": 1,
+    "AnswerId": 12899,
+    "Answers": [
+      { "Id": 12899, "Text": "CTRL + B()" },
+      { "Id": 1300, "Text": "CTRL + A()" },
+      { "Id": 1301, "Text": "CTRL + U()" },
+      { "Id": 1302, "Text": "CTRL + C()" }
+    ]
+  },
+  {
+    "Id": 23903,
+    "Text": "Khi đang trình chiếu, muốn chuyển sang màn hình của một chương trình ứng dụng khác (đã mở trước) để minh họa mà không kết thúc việc trình chiếu, sử dụng tổ hợp phím nào sau đây",
+    "Mark": 1,
+    "AnswerId": 1305,
+    "Answers": [
+      { "Id": 1303, "Text": "Home + Tab()" },
+      { "Id": 1304, "Text": "Home + Tab()" },
+      { "Id": 1305, "Text": "Home + Tab()" },
+      { "Id": 1307, "Text": "Esc + Tab()" }
+    ]
+  },
+  {
+    "Id": 23904,
+    "Text": "Trong Powerpoint 2010, lần lượt nhấn phím ALT, phím N, phím T tương ứng với lựa chọn nào sau đây",
+    "Mark": 1,
+    "AnswerId": 1308,
+    "Answers": [
+      { "Id": 1308, "Text": " Vào Home -> Format()" },
+      { "Id": 1309, "Text": "Vào Insert -> Table()" },
+      { "Id": 1310, "Text": "Vào Design -> Page Setup()" },
+      { "Id": 1311, "Text": "Vào View -> Zoom()" }
+    ]
+  },
+  {
+    "Id": 23905,
+    "Text": "Trong Powerpoint 2010, tổ hợp phím CTRL + H tương ứng với lựa chọn nào sau đây",
+    "Mark": 1,
+    "AnswerId": 1312,
+    "Answers": [
+      { "Id": 1312, "Text": "Vào Home -> Replace()" },
+      { "Id": 1313, "Text": "Vào Home -> Reset()" },
+      { "Id": 1314, "Text": "Vào Insert -> Picture()" },
+      { "Id": 1315, "Text": "Vào View -> Slide Master()" }
+    ]
+  },
+  {
+    "Id": 23906,
+    "Text": "Trong Powerpoint 2010, để thêm 1 slide giống slide hiện tại ta dùng tố hợp phím lệnh nào sau đây",
+    "Mark": 1,
+    "AnswerId": 1317,
+    "Answers": [
+      { "Id": 1316, "Text": "ALT + H + E + D()" },
+      { "Id": 1317, "Text": "ALT + H + I + D()" },
+      { "Id": 1318, "Text": "ALT + H + D + I()" },
+      { "Id": 1319, "Text": "ALT + H + E + I()" }
+    ]
+  },
+  {
+    "Id": 23907,
+    "Text": "Trong Powerpoint, tổ hợp phím Ctrl + C được sử dụng để",
+    "Mark": 1,
+    "AnswerId": 1322,
+    "Answers": [
+      { "Id": 1320, "Text": "Xóa 1 đoạn văn bản()" },
+      { "Id": 1321, "Text": " Dán một đoạn văn bản từ Clipboard()" },
+      { "Id": 1322, "Text": " Sao chép một đoạn văn bản()" },
+      { "Id": 1323, "Text": "Cắt và sao chép một đoạn văn bản()" }
+    ]
+  },
+  {
+    "Id": 23908,
+    "Text": "Trong Powerpoint, tổ hợp phím Shift + F9 được sử dụng để",
+    "Mark": 1,
+    "AnswerId": 1327,
+    "Answers": [
+      { "Id": 1324, "Text": "Chuyển sang chế độ đọc()" },
+      { "Id": 1325, "Text": "Tắt chế độ khung lưới khi soạn thảo()" },
+      { "Id": 1326, "Text": "Bật chế độ khung lưới khi soạn thảo()" },
+      { "Id": 1327, "Text": " Bật, hoặc Tắt chế độ khung lưới khi soạn thảo()" }
+    ]
+  },
+  {
+    "Id": 23909,
+    "Text": "Trong Powerpoint, tổ hợp phím Shift + Alt + F9 được sử dụng để",
+    "Mark": 1,
+    "AnswerId": 1330,
+    "Answers": [
+      { "Id": 1328, "Text": "Bật thanh thước kẻ()" },
+      { "Id": 1329, "Text": "Tắt thanh thước kẻ()" },
+      { "Id": 1330, "Text": "Bật hoặc Tắt thanh thước kẻ()" },
+      { "Id": 1331, "Text": "Tất cả đều sai()" }
+    ]
+  },
+  {
+    "Id": 23910,
+    "Text": "Trong Powerpoint 2010, thao tác nào sau đây để tạo hiệu ứng bóng mờ cho đoạn văn bản được chọn",
+    "Mark": 1,
+    "AnswerId": 1332,
+    "Answers": [
+      { "Id": 1332, "Text": "Vào Home -> Text Shadow()" },
+      { "Id": 133, "Text": "Vào Format -> Text Shadow()" },
+      { "Id": 1334, "Text": "Vào View -> Text Shadow()" },
+      { "Id": 1335, "Text": " Vào Insert -> Text Shadow()" }
+    ]
+  },
+  {
+    "Id": 23911,
+    "Text": "Trong Powerpoint 2010, thao tác nào sau đây để thay đổi khoảng cách giữa các ký tự của đoạn văn bản được chọn",
+    "Mark": 1,
+    "AnswerId": 1337,
+    "Answers": [
+      { "Id": 1336, "Text": "Vào Format -> Character Spacing()" },
+      { "Id": 1337, "Text": "Vào Home -> Character Spacing()" },
+      { "Id": 1338, "Text": "Vào Insert -> Character Spacing()" },
+      { "Id": 1339, "Text": "Vào View -> Character Spacing()" }
+    ]
+  },
+  {
+    "Id": 23912,
+    "Text": "Trong Powerpoint 2010, tổ hợp phím SHIFT + F3 tương ứng với thao tác nào sau đây",
+    "Mark": 1,
+    "AnswerId": 1343,
+    "Answers": [
+      { "Id": 1340, "Text": "Vào Format -> Change Case()" },
+      { "Id": 1341, "Text": "Vào Home -> Text Shadow()" },
+      { "Id": 1342, "Text": "Vào Home -> Character Spacing()" },
+      { "Id": 1343, "Text": "Vào Home -> Change Case()" }
+    ]
+  },
+  {
+    "Id": 23913,
+    "Text": "Trong Powerpoint 2010, tổ hợp phím nào sau đây cho phép tăng kích cỡ của đoạn văn bản được chọn",
+    "Mark": 1,
+    "AnswerId": 1344,
+    "Answers": [
+      { "Id": 1344, "Text": "Ctrl + Shift + >()" },
+      { "Id": 1345, "Text": "Ctrl + Shift + =()" },
+      { "Id": 1346, "Text": "Ctrl + Shift + <()" },
+      { "Id": 1347, "Text": "Ctrl + Shift +()" }
+    ]
+  },
+  {
+    "Id": 23914,
+    "Text": "Trong Powerpoint 2010, thao tác nào sau đây để chia đoạn văn bản được chọn thành 2 cột",
+    "Mark": 1,
+    "AnswerId": 1349,
+    "Answers": [
+      { "Id": 1348, "Text": " Vào Home -> Column()" },
+      { "Id": 1349, "Text": "Vào Home -> Columns -> Two Columns()" },
+      { "Id": 1350, "Text": "Vào Insert -> Columns()" },
+      { "Id": 1351, "Text": "Vào Insert -> Columns -> Two Columns()" }
+    ]
+  },
+  {
+    "Id": 23915,
+    "Text": "Trong Powerpoint 2010, lệnh Rehearse Timings dùng để",
+    "Mark": 1,
+    "AnswerId": 1352,
+    "Answers": [
+      { "Id": 1352, "Text": "Quy định thời gian trình diễn cho từng Slide()" },
+      { "Id": 1353, "Text": "Ẩn Slide hiện tại()" },
+      {
+        "Id": 1354,
+        "Text": "Quy định thời gian chạy hiệu ứng của đối tượng được chọn()"
+      },
+      { "Id": 1355, "Text": "Xóa Slide hiện tại()" }
+    ]
+  },
+  {
+    "Id": 23916,
+    "Text": "Trong Powerpoint 2010, lệnh nào sau đây cho phép quy định thời gian và lồng giọng nói cho từng slide",
+    "Mark": 1,
+    "AnswerId": 1357,
+    "Answers": [
+      { "Id": 1356, "Text": " Rehearse Timings()" },
+      { "Id": 1357, "Text": "Record Slide Show()" },
+      { "Id": 1358, "Text": "Custom Slide Show()" },
+      { "Id": 1359, "Text": "Broadcast Slide Show()" }
+    ]
+  },
+  {
+    "Id": 23917,
+    "Text": "Phông chữ ARIAL tương ứng với bảng mã nào sau đây",
+    "Mark": 1,
+    "AnswerId": 1360,
+    "Answers": [
+      { "Id": 1360, "Text": "UNICODE()" },
+      { "Id": 1361, "Text": "TCVN3 (ABC)()" },
+      { "Id": 1362, "Text": "VNI WINDOWS()" },
+      { "Id": 1363, "Text": " VIQR()" }
+    ]
+  },
+  {
+    "Id": 23918,
+    "Text": "Phông chữ .VNTIME tương ứng với bảng mã nào sau đây",
+    "Mark": 1,
+    "AnswerId": 1366,
+    "Answers": [
+      { "Id": 1364, "Text": "BK HCM 1()" },
+      { "Id": 1365, "Text": "TCVN3 (ABC)()" },
+      { "Id": 1366, "Text": "VNI WINDOWS()" },
+      { "Id": 1367, "Text": "VIETWARE F()" }
+    ]
+  },
+  {
+    "Id": 23919,
+    "Text": "Trong Powerpoint 2010, thao tác nào sau đây cho phép trình diễn từ xa thông qua mạng internet.",
+    "Mark": 1,
+    "AnswerId": 1370,
+    "Answers": [
+      { "Id": 1368, "Text": "wiew -> Broadcast slideshow()" },
+      { "Id": 1369, "Text": " Home -> Broadcast slideshow()" },
+      { "Id": 1370, "Text": "Slide Show -> Broadcast slideshow()" },
+      { "Id": 1372, "Text": "Insert -> Broadcast slideshow()" }
+    ]
+  }
+]

@@ -1,0 +1,482 @@
+[
+    {
+        "Id": 400,
+        "Text": "Lặp lại các dòng tiêu đề của bảng biểu ta dùng",
+        "Marks": 1,
+        "AnswerId": 200,
+        "Answers": [
+            {
+                "Id": 200,
+                "Text": "Table/Heading Row repeat"
+            },
+            {
+                "Id": 201,
+                "Text": "Table/Sort"
+            },
+            {
+                "Id": 202,
+                "Text": "Table/Formular "
+            },
+            {
+                "Id": 203,
+                "Text": "Cả ba đều sai"
+            }
+        ]
+    },
+    {
+        "Id": 401,
+        "Text": " Edit/Select all tương ứng với phím tắt nào? ",
+        "Marks": 1,
+        "AnswerId": 204,
+        "Answers": [
+            {
+                "Id": 204,
+                "Text": "Ctrl - A"
+            },
+            {
+                "Id": 205,
+                "Text": "Ctrl - L"
+            },
+            {
+                "Id": 206,
+                "Text": "Ctrl - K "
+            },
+            {
+                "Id": 207,
+                "Text": "A,C sai"
+            }
+        ]
+    },
+    {
+        "Id": 402,
+        "Text": "Để chọn hiệu ứng cho chữ ta chọn thẻ nào trong format/Font:",
+        "Marks": 1,
+        "AnswerId": 208,
+        "Answers": [
+            {
+                "Id": 208,
+                "Text": "Ctrl - A"
+            },
+            {
+                "Id": 209,
+                "Text": "Ctrl - L"
+            },
+            {
+                "Id": 210,
+                "Text": "Ctrl - K "
+            },
+            {
+                "Id": 211,
+                "Text": "A,C sai"
+            }
+        ]
+    },
+    {
+        "Id": 403,
+        "Text": "Chèn một kí tự đặc biệt ta dùng:",
+        "Marks": 1,
+        "AnswerId": 214,
+        "Answers": [
+            {
+                "Id": 212,
+                "Text": "Insert/Text box "
+            },
+            {
+                "Id": 213,
+                "Text": "Insert/File"
+            },
+            {
+                "Id": 214,
+                "Text": "Insert/Symbol"
+            },
+            {
+                "Id": 215,
+                "Text": "Insert/Picture "
+            }
+        ]
+    },
+    {
+        "Id": 404,
+        "Text": "Tìm kiếm và thay thế một từ lặp lại nhiều lần",
+        "Marks": 1,
+        "AnswerId": 216,
+        "Answers": [
+            {
+                "Id": 215,
+                "Text": "Edit/Go to "
+            },
+            {
+                "Id": 216,
+                "Text": "Edit/Replace "
+            },
+            {
+                "Id": 217,
+                "Text": "Insert/Symbol"
+            },
+            {
+                "Id": 218,
+                "Text": "Insert/Picture "
+            }
+        ]
+    },
+    {
+        "Id": 405,
+        "Text": "Chuyển sang chữ hoa đầu từ ta dùng lệnh :format/change case",
+        "Marks": 1,
+        "AnswerId": 222,
+        "Answers": [
+            {
+                "Id": 219,
+                "Text": "Title Case  "
+            },
+            {
+                "Id": 220,
+                "Text": " Lower Case"
+            },
+            {
+                "Id": 221,
+                "Text": "Sentence Case "
+            },
+            {
+                "Id": 222,
+                "Text": "Upper Case"
+            }
+        ]
+    },
+    {
+        "Id": 406,
+        "Text": "Trộn các ô lại với nhau ta sử dụng menu lệnh:",
+        "Marks": 1,
+        "AnswerId": 224,
+        "Answers": [
+            {
+                "Id": 223,
+                "Text": "Table/Formular "
+            },
+            {
+                "Id": 224,
+                "Text": "Table/Sort "
+            },
+            {
+                "Id": 225,
+                "Text": "Table/Meger Cells  "
+            },
+            {
+                "Id": 226,
+                "Text": "Table/Split Cells "
+            }
+        ]
+    },
+    {
+        "Id": 407,
+        "Text": "Để trình bày văn bản theo kiểu liệt kê ta dùng lệnh nào sau đây?",
+        "Marks": 1,
+        "AnswerId": 228,
+        "Answers": [
+            {
+                "Id": 227,
+                "Text": " Format/Tab"
+            },
+            {
+                "Id": 228,
+                "Text": "Format/bullet and number"
+            },
+            {
+                "Id": 229,
+                "Text": " Format/direction"
+            },
+            {
+                "Id": 230,
+                "Text": "Format/paragraph"
+            }
+        ]
+    },
+    {
+        "Id": 408,
+        "Text": "Tô màu cho đoạn văn bản ta dung lệnh :",
+        "Marks": 1,
+        "AnswerId": 233,
+        "Answers": [
+            {
+                "Id": 231,
+                "Text": "Format/border and shading "
+            },
+            {
+                "Id": 232,
+                "Text": "Format/Header and Footer"
+            },
+            {
+                "Id": 233,
+                "Text": "Format/Change Case"
+            },
+            {
+                "Id": 234,
+                "Text": "Format/Drop cap"
+            }
+        ]
+    },
+    {
+        "Id": 409,
+        "Text": "Tạo khoảng cách các dòng là hai dòng thì dùng tổ hợp phím nào?",
+        "Marks": 1,
+        "AnswerId": 238,
+        "Answers": [
+            {
+                "Id": 235,
+                "Text": "Ctrl-2"
+            },
+            {
+                "Id": 236,
+                "Text": "Ctrl-0"
+            },
+            {
+                "Id": 237,
+                "Text": " Ctrl-1"
+            },
+            {
+                "Id": 238,
+                "Text": "A,B đúng"
+            }
+        ]
+    },
+    {
+        "Id": 410,
+        "Text": "Hiển thị thanh công cụ chuẩn ta chọn view/toolbar/: ",
+        "Marks": 1,
+        "AnswerId": 242,
+        "Answers": [
+            {
+                "Id": 239,
+                "Text": "Table and border "
+            },
+            {
+                "Id": 240,
+                "Text": "Drawing"
+            },
+            {
+                "Id": 241,
+                "Text": " Standard"
+            },
+            {
+                "Id": 242,
+                "Text": "Formatting"
+            }
+        ]
+    },
+    {
+        "Id": 411,
+        "Text": "Thoát khỏi chương trình Word ta sử dụng menu lệnh:",
+        "Marks": 1,
+        "AnswerId": 244,
+        "Answers": [
+            {
+                "Id": 243,
+                "Text": "File/close"
+            },
+            {
+                "Id": 244,
+                "Text": "File/exit "
+            },
+            {
+                "Id": 245,
+                "Text": "File/Print preview"
+            },
+            {
+                "Id": 246,
+                "Text": "Có hai câu đúng trong ba câu"
+            }
+        ]
+    },
+    {
+        "Id": 412,
+        "Text": "Chèn một cột bên phải cột được chọn:",
+        "Marks": 1,
+        "AnswerId": 248,
+        "Answers": [
+            {
+                "Id": 247,
+                "Text": "Table/Insert/Row below"
+            },
+            {
+                "Id": 248,
+                "Text": "Table/Insert/Row above"
+            },
+            {
+                "Id": 249,
+                "Text": "Table/Insert/Columns to right"
+            },
+            {
+                "Id": 250,
+                "Text": "Table/Insert/Columns to left"
+            }
+        ]
+    },
+    {
+        "Id": 413,
+        "Text": "Để copy một đoạn văn bản ta dùng cặp lệnh nào:",
+        "Marks": 1,
+        "AnswerId": 251,
+        "Answers": [
+            {
+                "Id": 251,
+                "Text": "Edit/Copy-Edit/Paste  "
+            },
+            {
+                "Id": 252,
+                "Text": "Edit/Cut-Edit/Paste"
+            },
+            {
+                "Id": 253,
+                "Text": "Cả hai đều đúng"
+            },
+            {
+                "Id": 254,
+                "Text": "Cả hai đều sai"
+            }
+        ]
+    },
+    {
+        "Id": 414,
+        "Text": "Tạo đầu trang và chân trang ta dùng lệnh",
+        "Marks": 1,
+        "AnswerId": 256,
+        "Answers": [
+            {
+                "Id": 255,
+                "Text": "View/Header"
+            },
+            {
+                "Id": 256,
+                "Text": "View/Header and Footer"
+            },
+            {
+                "Id": 257,
+                "Text": "View/Footer"
+            },
+            {
+                "Id": 258,
+                "Text": "Cả ba đều sai"
+            }
+        ]
+    },
+    {
+        "Id": 415,
+        "Text": "Để tạo một bảng biểu thì ta dùng menu lệnh nào?",
+        "Marks": 1,
+        "AnswerId": 262,
+        "Answers": [
+            {
+                "Id": 259,
+                "Text": "Table/Insert/Cells"
+            },
+            {
+                "Id": 260,
+                "Text": "Table/Insert/Row"
+            },
+            {
+                "Id": 261,
+                "Text": "Table/Insert/Column"
+            },
+            {
+                "Id": 262,
+                "Text": "Table/Insert/Table"
+            }
+        ]
+    },
+    {
+        "Id": 416,
+        "Text": "Đánh số trang cho một file văn bản ta dùng lệnh:",
+        "Marks": 1,
+        "AnswerId": 263,
+        "Answers": [
+            {
+                "Id": 263,
+                "Text": "Insert/Page number"
+            },
+            {
+                "Id": 264,
+                "Text": "Insert/Date and Time"
+            },
+            {
+                "Id": 265,
+                "Text": "Insert/Break"
+            },
+            {
+                "Id": 266,
+                "Text": "Không có câu nào đúng"
+            }
+        ]
+    },
+    {
+        "Id": 417,
+        "Text": "Để mở một file sẵn có trên đĩa trong chương trình Word ta dùng lệnh và tổ hợp phím nào?",
+        "Marks": 1,
+        "AnswerId": 268,
+        "Answers": [
+            {
+                "Id": 267,
+                "Text": "File/Open & ctrl-N "
+            },
+            {
+                "Id": 268,
+                "Text": "File/Open & ctrl-O"
+            },
+            {
+                "Id": 269,
+                "Text": "File/Open & ctrl-M"
+            },
+            {
+                "Id": 270,
+                "Text": "File/Open & ctrl-H "
+            }
+        ]
+    },
+    {
+        "Id": 418,
+        "Text": "Trong MS-Word, muốn chèn thêm một hàng trong bảng biểu:",
+        "Marks": 1,
+        "AnswerId": 272,
+        "Answers": [
+            {
+                "Id": 271,
+                "Text": "Table/Insert/Column"
+            },
+            {
+                "Id": 272,
+                "Text": "Table/Insert/Row"
+            },
+            {
+                "Id": 273,
+                "Text": "Table/Insert/Table"
+            },
+            {
+                "Id": 274,
+                "Text": "Table/Insert/Cell"
+            }
+        ]
+    },
+    {
+        "Id": 419,
+        "Text": "Trong MS-Word ta muốn đặt lề, chọn cỡ giấy, hướng giấy ta sử dụng lệnh nào:",
+        "Marks": 1,
+        "AnswerId": 272,
+        "Answers": [
+            {
+                "Id": 271,
+                "Text": "File/Print"
+            },
+            {
+                "Id": 272,
+                "Text": "File/Frint preview"
+            },
+            {
+                "Id": 273,
+                "Text": "File/Page setup"
+            },
+            {
+                "Id": 274,
+                "Text": "Có hai câu đúng trong ba câu"
+            }
+        ]
+    }
+]
