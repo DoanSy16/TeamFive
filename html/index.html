@@ -3,25 +3,135 @@
         background-color: rgb(64, 53, 223) !important;
         font-size: 25px;
     }
+
+    .info-box {
+        background: #fff;
+        border-radius: 2px;
+        border-bottom-right-radius: 30px;
+        box-shadow: 0 1px 1px rgba(0, 0, 0, .1);
+        display: block;
+        margin-bottom: 30px;
+        min-height: 90px;
+        position: relative;
+        width: 100%
+    }
+
+    .info-box:hover {
+        box-shadow: 0 2px 10px 0 rgba(0, 0, 0, .16), 0 2px 5px 0 rgba(0, 0, 0, .26)
+    }
+
+    .info-box .info-box-body {
+        align-items: center;
+        display: flex
+    }
+
+    .info-box .info-box-icon {
+        /* background: rgba(0, 0, 0, .2); */
+        border-bottom-left-radius: 2px;
+        border-bottom-right-radius: 0;
+        border-top-left-radius: 2px;
+        border-top-right-radius: 0;
+        color: #fff;
+        flex-shrink: 0;
+        height: 100px;
+        line-height: 100px;
+        text-align: center;
+        text-shadow: 1px 1px rgba(52, 78, 147, .8);
+        width: 100px
+    }
+
+    .info-box .info-box-content {
+        padding: 10px
+    }
+
+    .info-box .info-box-text {
+        color: #ff922e;
+        display: block;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 27px;
+        text-transform: uppercase
+    }
+
+    .info-box .info-box-des {
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        color: #545454;
+        display: -webkit-box;
+        font-size: 16px;
+        margin-bottom: 5px;
+        margin-top: 0;
+        overflow: hidden
+    }
+
+    .info-box .info-box-number {
+        background: #ff9700;
+        border: 1px solid #eeeeee78;
+        border-radius: 20px;
+        border-bottom-right-radius: unset;
+        border-top-right-radius: unset;
+        color: #fff;
+        display: block;
+        font-size: 14px;
+        font-weight: 900;
+        height: 30px;
+        padding: 4px 7px;
+        position: absolute;
+        right: 0;
+        text-transform: none;
+        top: 0
+    }
+
+    .info-box-icon-img {
+        width: 95%;
+    }
+
+    @media (max-width: 500px) {
+        .info-box .info-box-body {
+            display: block
+        }
+
+        .info-box .info-box-icon {
+            width: 100%;
+            margin-bottom: 40px;
+        }
+
+        .info-box .info-box-number {
+            border-bottom-left-radius: 3px;
+            border-top-left-radius: 3px
+        }
+
+        .info-box .info-box-content {
+            text-align: center
+        }
+
+        .info-box-icon-img {
+            width: 50%;
+
+        }
+    }
 </style>
 <section ng-show="Student==null" style="padding-top: 50px;">
-    <div class="main-container {{(Student==null)?'show':'hidden'}}" >
+    <div class="main-container {{(Student==null)?'show':'hidden'}}">
         <div class="d-flex justify-content-center align-items-center">
             <div class="row" style=" width:100%; border-radius: 10px; mask-repeat: no-repeat;">
                 <div class="col-md-12" style="text-align: center; color: white; margin-bottom: 5px;">
-                    <h1 class="intro-title " data-wow-delay="0.3s" style="font-weight: bold; font-size: 40px;margin-top: 30px;">Trắc nghiệm Online </h1>
-                    <h6 class="" data-wow-delay="0.3s" style="font-weight: 500;font-size: 10px; margin-top: 10px;margin-bottom: 20px;">Vui lòng đăng nhập hoặc đăng ký trước khi bắt đầu</h6>
-                    <a href="#!login" class="btn btn-white btn-rounded orange-text"  style="font-weight: bold;width: auto;">Đăng nhập</a>
-                    <a href="#!register" class="btn btn-outline-white btn-rounded "  style="font-weight: bold;width: auto; ">Đăng kí</a>
+                    <h1 class="intro-title " data-wow-delay="0.3s"
+                        style="font-weight: bold; font-size: 40px;margin-top: 30px;">Trắc nghiệm Online </h1>
+                    <h6 class="" data-wow-delay="0.3s"
+                        style="font-weight: 500;font-size: 10px; margin-top: 10px;margin-bottom: 20px;">Vui lòng đăng
+                        nhập hoặc đăng ký trước khi bắt đầu</h6>
+                    <a href="#!login" class="btn btn-white btn-rounded orange-text"
+                        style="font-weight: bold;width: auto;">Đăng nhập</a>
+                    <a href="#!register" class="btn btn-outline-white btn-rounded "
+                        style="font-weight: bold;width: auto; ">Đăng kí</a>
                 </div>
             </div>
-            <hr>
-
         </div>
     </div>
 </section>
-<section >
-    <div class="dark-grey-text text-center p-5 rgba-white-strong" style="margin-top: 50px;border-radius: 20px;">
+<section>
+    <div class="dark-grey-text text-center p-5 rgba-white-strong" style="margin-top: 50px;border-radius: 10px;">
         <h3 class="font-weight-bold mb-4 pb-2">Danh Mục Thi</h3>
         <p class="text-muted w-responsive mx-auto mb-5 ">Chọn phần thi theo bộ muôn bạn đang học</p>
         <div class="loading {{(subjects.length==0)?' ':'hidden'}} show" style="margin-top: 0px;">
@@ -36,30 +146,31 @@
         </div>
 
         <div class="row">
-            <div ng-repeat="sj in subjects| limitTo:6:count" class="col-md-4" style="min-height: 350px;">
-                <div class="">
-                    <div class="view overlay z-depth-1 d-flex justify-content-center white " style="border-radius: 20px;">
-                        <img src="images/logos/{{sj.Logo}}"  alt="Sample project image">
-                        <a ng-click="checkLogin(sj.Id)">
-                            <div class="mask rgba-white-slight"></div>
-                        </a>
-                    </div>
-                </div>
-
-                <div class="px-3 pt-3 mx-1 mt-1 pb-0">
-                    <a ng-click="checkLogin(sj.Id)" class="{{($index%2==0)?'orange-text':'deep-purple-text'}}">
-                        <h6 class="font-weight-bold mt-2 mb-3"><i class="fas fa-book-open pr-2"></i>Bài thi</h6>
+            <div ng-repeat="sj in subjects| limitTo:6:count" class="col-md-6" style="min-height: 100px;">
+                <div class="info-box">
+                    <a ng-click="checkLogin(sj.Id)" title="{{sj.title}}">
+                        <div class="info-box-body">
+                            <div class="info-box-icon">
+                                <img class="info-box-icon-img" src="images/logos/{{sj.Logo}}"
+                                    alt="Sample project image">
+                            </div>
+                            <div class="info-box-content">
+                                <span class="info-box-text">{{sj.Name}}</span>
+                                <p class="info-box-des">{{sj.content}}</p>
+                                <span class="info-box-number">10 câu hỏi ngẫu nhiên</span>
+                            </div>
+                        </div>
                     </a>
-                    <h4 class="font-weight-bold mb-3">{{sj.Name}}</h4>
-                    <a ng-click="checkLogin(sj.Id)" class="btn btn-success btn-rounded btn-md"> Chi tiết</a>
                 </div>
-
             </div>
-
         </div>
         <div>
-            <button show ng-click="Prev()" class="btn btn-primary {{(count==0)?'disabled':''}}  {{(subjects.length==0 || subjects.length<6 )?'hidden':''}}"><i class="fas fa-chevron-circle-left" ></i></button>
-            <button ng-click="Next()" class="btn btn-primary {{(count==18 || check.length<6 &&  checkCount==1)?'disabled':''}}  {{(subjects.length==0 || subjects.length<6 )?'hidden':''}}" ><i class="fas fa-chevron-circle-right"></i></button>
+            <button show ng-click="Prev()"
+                class="btn btn-primary {{(count==0)?'disabled':''}}  {{(subjects.length==0 || subjects.length<6 )?'hidden':''}}"><i
+                    class="fas fa-chevron-circle-left"></i></button>
+            <button ng-click="Next()"
+                class="btn btn-primary {{(count==18 || check.length<6 &&  checkCount==1)?'disabled':''}}  {{(subjects.length==0 || subjects.length<6 )?'hidden':''}}"><i
+                    class="fas fa-chevron-circle-right"></i></button>
         </div>
     </div>
 </section>

@@ -2,126 +2,177 @@
   {
     "Id": "EXCEL",
     "Name": "Excel cơ bản",
-    "Logo": "EXCEL.png"
+    "Logo": "EXCEL.png",
+    "title": "Excel mang nhiều công dụng và tính năng khác nhau, hỗ trợ người dùng đạt hiệu suất tốt hơn trong công việc.",
+    "content": "Microsoft Excel là một ứng dụng bảng tính thuộc bộ Microsoft Office, công dụng chính của nó là giúp người dùng tính toán nhanh và chính xác với số lượng dữ liệu lớn. Excel là một tập hợp các hàng và cột được kết hợp với nhau tạo ra một bảng tính lớn. Các hàng thường được ký hiệu lần lượt bằng các chữ cái như: A, B, C, D, E,… còn các cột thì được ký hiệu bằng các con số từ 1, 2, 3 cho đến n…. Một cột và một hàng gộp lại với nhau sẽ trở thành một ô tính. Địa chỉ của ô sẽ được xác định bởi chữ cái đại diện cho cột và số đại diện cho hàng."
   },
+
   {
     "Id": "WORD",
     "Name": "Word cơ bản",
-    "Logo": "WORD.jpg"
+    "Logo": "WORD.jpg",
+    "title": "Word hỗ trợ các công cụ soạn thảo văn bản cho người dùng trong công việc và học tập",
+    "content": "Microsoft Word là chương trình soạn thảo, xử lý văn bản phổ biến với tất cả mọi người dùng máy tính trên toàn thế giới, được phát triển bởi Microsoft và thuộc bộ ứng dụng Microsoft Office"
   },
   {
     "Id": "PPT",
     "Name": "Powerpoint  cơ bản",
-    "Logo": "PPT.jpg"
+    "Logo": "PPT.jpg",
+    "title": "PowerPoint",
+    "content": "PowerPoint là được biết đến là phần mềm trình chiếu không thể thiếu, được sử dụng bởi đông đảo các bạn sinh viên, nhân viên văn phòng,..."
   },
   {
     "Id": "THCS",
     "Name": "Tin học cơ sở",
-    "Logo": "THCS.jpg"
+    "Logo": "THCS.jpg",
+    "title": "Cung cấp các kiến thức cơ bản về tin học cho các bạn làm quen với môi trường máy tính",
+    "content": "Tin học cơ sở là một môn học giúp người học hiểu và nắm vững những kiến thức căn bản về tin học và công nghệ thông tin."
   },
   {
     "Id": "THNC",
     "Name": "Tin học nâng cao",
-    "Logo": "THNC.jpg"
+    "Logo": "THNC.jpg",
+    "title": "Cung cấp các kiến thức nâng cao về lập trình Android",
+    "content": "Tin học nâng cao là một môn học giúp người học phát triển và nắm vững các kiến thức nâng cao về tin học và công nghệ thông tin."
   },
   {
     "Id": "ADAV",
     "Name": "Lập trình Android nâng cao",
-    "Logo": "ADAV.jpg"
+    "Logo": "ADAV.jpg",
+    "title": "Lập trình Android nâng cao giúp người học tìm hiểu chuyên sâu về các kiến thức về lập trình ứng dụng Android",
+    "content": "Lập trình Android là môn học sử dụng các ngôn ngữ lập trình để viết và phát triển các phần mềm. Nhằm gia tăng tiện ích cho thiết bị di động, đặc biệt là di động sử dụng hệ điều hành"
   },
   {
     "Id": "ADBS",
     "Name": "Lập trình Android cơ bản",
-    "Logo": "ADBS.jpg"
+    "Logo": "ADBS.jpg",
+    "title": " Android là hệ điều hành trên thiết bị di động (và hiện nay là cả trên một số đầu phát HD, HD Player, TV) tăng trưởng bởi Google và dựa trên nền tảng Linux. Lập trình android là một lập trình ứng dụng điện thoại phổ biến. thời gian trước, Android được tăng trưởng bởi doanh nghiệp liên hợp Android ( sau đó được Google mua lại vào năm 2005).",
+    "content": "Android là hệ điều hành dẫn đầu chẳng thể bàn cãi của thị phần điện thoại thông minh thế giới. Nhờ sự phát triển tại các thị trường mới nổi như Mexico, Thổ Nhĩ Kỳ và Brazil, sự thống trị này sẽ không giảm sút trong khi tới."
   },
   {
     "Id": "ADTE",
     "Name": "Kiểm thử và triển khai ứng dụng Android",
-    "Logo": "ADTE.jpg"
+    "Logo": "ADTE.jpg",
+    "title": "Bạn có thể xây dựng ứng dụng dưới dạng Android App Bundle và triển khai ứng dụng đó đến một thiết bị được kết nối ngay từ IDE. Vì IDE và Google Play sử dụng cùng công cụ để trích xuất và cài đặt các APK trên một thiết bị nên chiến lược kiểm thử cục bộ này giúp bạn xác minh",
+    "content": "Trong lớp học lập trình này, bạn sẽ tạo ứng dụng Android đầu tiên (Chúc mừng sinh nhật) bắt đầu từ mẫu dành cho ứng dụng cơ bản do Android Studio cung cấp. Bạn cũng sẽ khám phá giao diện của một dự án Android, đồng thời tìm hiểu cách sử dụng các cửa sổ trong Android Studio."
   },
   {
     "Id": "ADUI",
     "Name": "Thiết kế giao diện trên Android",
-    "Logo": "ADUI.jpg"
+    "Logo": "ADUI.jpg",
+    "title": "Thiết kế giao diện android hay còn gọi là thiết kế giao diện người dùng cho các ứng dụng chạy trên hệ điều hành Android. Đối với việc thiết kế, chúng ta cần lưu ý giao diện càng đơn giản càng tốt. Chúng ta cần tìm hiểu nhu cầu của khách hàng để thiết kế giao diện cho phù hợp",
+    "content": "Các thành phần trong giao diện phải được bố trí theo một ràng buộc nào đó hay còn gọi là layout. Trong android có nhiều loại layout như LinearLayout, TabLayout, RelativeLayout, …"
   },
   {
     "Id": "ASNE",
     "Name": "Lập trình ASP.NET",
-    "Logo": "ASNE.png"
+    "Logo": "ASNE.png",
+    "title": "ASP. NET là một mã nguồn mở dành cho web được tạo bởi Microsoft. Hiện mã nguồn này chạy trên nền tảng Windows và được bắt đầu vào đầu những năm 2000. ",
+    "content": "ASP.NET cho phép các nhà phát triển tạo các ứng dụng web, dịch vụ web và các trang web động."
   },
   {
     "Id": "CLCO",
     "Name": "Điện toán đám mây",
-    "Logo": "CLCO.jpg"
+    "Logo": "CLCO.jpg",
+    "title": "Điện toán đám mây là việc phân phối các tài nguyên CNTT theo nhu cầu qua Internet với chính sách thanh toán theo mức sử dụng.",
+    "content": "Thay vì mua, sở hữu và bảo trì các trung tâm dữ liệu và máy chủ vật lý, bạn có thể tiếp cận các dịch vụ công nghệ, như năng lượng điện toán, lưu trữ và cơ sở dữ liệu, khi cần thiết, từ nhà cung cấp dịch vụ đám mây như Amazon Web Services (AWS)."
   },
   {
     "Id": "DBAV",
     "Name": "SQL Server",
-    "Logo": "DBAV.png"
+    "Logo": "DBAV.png",
+    "title": " SQL Server hay Microsoft SQL Server ứng dụng cho hệ thống quản trị cơ sở dữ liệu quan hệ (Relational Database Management System – RDBMS)",
+    "content": "Ngôn ngữ truy vấn có cấu trúc (SQL) là một ngôn ngữ lập trình phục vụ việc lưu trữ và xử lý thông tin trong cơ sở dữ liệu quan hệ. Cơ sở dữ liệu quan hệ lưu trữ thông tin dưới dạng bảng có các hàng và cột đại diện cho những thuộc tính dữ liệu và nhiều mối quan hệ khác nhau giữa các giá trị dữ liệu. Bạn có thể sử dụng các câu lệnh SQL để lưu trữ, cập nhật, loại bỏ, tìm kiếm và truy xuất thông tin từ cơ sở dữ liệu. Bạn cũng có thể sử dụng SQL để duy trì và tối ưu hóa hiệu suất cơ sở dữ liệu."
   },
   {
     "Id": "DBBS",
     "Name": "Cơ sở dữ liệu",
-    "Logo": "DBBS.png"
+    "Logo": "DBBS.png",
+    "title": "Cơ sở dữ liệu (tiếng Anh: Database) là một tập hợp các dữ liệu có tổ chức liên quan đến nhau, thường được lưu trữ và truy cập điện tử từ hệ thống máy tính",
+    "content": "Cơ sở dữ liệu được sử dụng để hỗ trợ các hoạt động nội bộ của các tổ chức và để củng cố các tương tác trực tuyến với khách hàng và nhà cung cấp (xem phần mềm Doanh nghiệp)."
   },
   {
     "Id": "GAME",
     "Name": "Lập trình game 2D",
-    "Logo": "GAME.png"
+    "Logo": "GAME.png",
+    "title": "Quá trình tạo ra các trò chơi hai chiều bằng cách sử dụng các ngôn ngữ lập trình và công nghệ phần mềm được gọi là lập trình game 2D",
+    "content": "Nó bao gồm thiết kế đồ họa, lập trình logic và hoạt động của trò chơi, xử lý âm thanh và điều khiển người chơi. Lập trình game 2D là một phần quan trọng của công nghệ game hiện đại và cho phép tạo ra những trò chơi hấp dẫn và thú vị cho người chơi."
   },
   {
     "Id": "HTCS",
     "Name": "HTML5 và CSS3",
-    "Logo": "HTCS.jpg"
+    "Logo": "HTCS.jpg",
+    "title": "HTML và CSS là 2 thành phần không thể thiếu của bất cứ website nào",
+    "content": "HTML5 và CSS3 cũng làm cho các ứng dụng Web và các trang Web hấp dẫn hơn. HTML5 có các tính năng mới được thêm vào giúp cho việc xây dựng ứng dụng web dễ dàng hơn rất nhiều."
   },
   {
     "Id": "INMA",
     "Name": "Internet Marketing",
-    "Logo": "INMA.jpg"
+    "Logo": "INMA.jpg",
+    "title": "Internet marketing - phương tiện trên internet để quảng bá và tiếp thị sản phẩm, dịch vụ hoặc thương hiệu.",
+    "content": "Internet marketing giúp các doanh nghiệp tiếp cận khách hàng mục tiêu một cách hiệu quả hơn và tăng cường tương tác và tiếp thị theo hướng số trên môi trường trực tuyến."
   },
   {
     "Id": "JAAV",
     "Name": "Lập trình Java nâng cao",
-    "Logo": "JAAV.png"
+    "Logo": "JAAV.png",
+    "title": "Lập trình Java nâng cao - Hướng dẫn từ cơ bản đến chuyên sâu",
+    "content": "Lập trình Java nâng cao là một chương trình học chuyên sâu dành cho những lập trình viên đã có kiến thức cơ bản về Java và muốn nâng cao kỹ năng lập trình của mình. Trong khóa học này, bạn sẽ tìm hiểu về các chủ đề phức tạp hơn như lập trình đa luồng, xử lý ngoại lệ và các tính năng mới nhất trong Java. Bên cạnh đó, bạn cũng sẽ được thực hành thông qua các dự án thực tế để rèn luyện kỹ năng lập trình của mình."
   },
   {
     "Id": "JABS",
     "Name": "Lập trình hướng đối tượng với Java",
-    "Logo": "JABS.png"
+    "Logo": "JABS.png",
+    "title": "Lập trình hướng đối tượng với Java - Xây dựng ứng dụng chất lượng cao",
+    "content": "Lập trình hướng đối tượng với Java là một chương trình học quan trọng dành cho những người muốn hiểu rõ về lập trình hướng đối tượng trong ngôn ngữ Java. Trong khóa học này, bạn sẽ tìm hiểu về các khái niệm cơ bản của lập trình hướng đối tượng như lớp, đối tượng, kế thừa, đa hình và đóng gói. Bên cạnh đó, bạn cũng sẽ được thực hành xây dựng các ứng dụng Java sử dụng phong cách lập trình hướng đối tượng để phát triển các ứng dụng mạnh mẽ và dễ bảo trì."
   },
   {
     "Id": "JSPR",
     "Name": "Lập trình JavaScript",
-    "Logo": "JSPR.png"
+    "Logo": "JSPR.png",
+    "title": "Lập trình JavaScript - Xây dựng ứng dụng web động và tương tác",
+    "content": "Lập trình JavaScript là một chương trình học cơ bản dành cho những người mới bắt đầu học lập trình web. Trong khóa học này, bạn sẽ tìm hiểu về ngôn ngữ JavaScript và cách sử dụng nó để làm việc với các yếu tố trên trang web, thêm tính năng tương tác và hiệu ứng động cho trang web của bạn. Bên cạnh đó, bạn cũng sẽ được thực hành xây dựng các ứng dụng web đơn giản sử dụng JavaScript để rèn luyện kỹ năng lập trình của mình."
   },
   {
     "Id": "LAYO",
     "Name": "Thiết kế layout",
-    "Logo": "LAYO.jpg"
+    "Logo": "LAYO.jpg",
+    "title": "Thiết kế layout - Tạo giao diện đẹp và chuyên nghiệp cho trang web",
+    "content": "Thiết kế layout là một chương trình học dành cho những người muốn học cách tạo giao diện đẹp và chuyên nghiệp cho các trang web và ứng dụng di động. Trong khóa học này, bạn sẽ tìm hiểu về các nguyên tắc thiết kế layout, cách sắp xếp các yếu tố trên trang và cách tạo các trang web responsive, tương thích trên nhiều thiết bị. Bên cạnh đó, bạn cũng sẽ được thực hành thiết kế các layout thực tế để rèn luyện kỹ năng thiết kế của mình."
   },
   {
     "Id": "MOWE",
     "Name": "Thiết kế web cho điện thoại di động",
-    "Logo": "MOWE.png"
+    "Logo": "MOWE.png",
+    "title": "Thiết kế web cho điện thoại di động - Tối ưu hóa trải nghiệm di động",
+    "content": "Thiết kế web cho điện thoại di động là một chương trình học đặc biệt dành cho những người muốn học cách thiết kế các trang web phù hợp với điện thoại di động và các thiết bị di động khác. Trong khóa học này, bạn sẽ tìm hiểu về các nguyên tắc thiết kế cho điện thoại di động, cách tối ưu hóa trang web để hiển thị tốt trên các màn hình nhỏ và cách tạo trải nghiệm người dùng tốt trên điện thoại di động. Bên cạnh đó, bạn cũng sẽ được thực hành thiết kế các trang web di động thực tế để rèn luyện kỹ năng thiết kế của mình."
   },
   {
     "Id": "PHPP",
     "Name": "Lập trình PHP",
-    "Logo": "PHPP.png"
+    "Logo": "PHPP.png",
+    "title": "Lập trình PHP là một ngôn ngữ lập trình được nhiều người quan tâm khi tìm hiểu về các ngôn ngữ trong lập trình.",
+    "content": " Ngôn ngữ này được chạy ở server, sinh ra mã html trên client. Nhờ vào đó, PHP tạo ra được các ứng dụng website, website có thể chạy trên máy chủ."
   },
   {
     "Id": "PMAG",
     "Name": "Quản lý dự án với Agile",
-    "Logo": "PMAG.jpg"
+    "Logo": "PMAG.jpg",
+    "title": "Quản lý dự án Agile là một cách tiếp cận lặp đi lặp lại để quản lý dự án tập trung vào việc chia nhỏ các dự án lớn thành các nhiệm vụ dễ quản lý hơn, được hoàn thành trong các lần lặp ngắn trong suốt vòng đời của dự án.",
+    "content": "Ban đầu được tạo ra để phát triển phần mềm, phương pháp quản lý Agile nhanh chóng được chấp thuận không chỉ bởi các nhóm CNTT. Các nhà tiếp thị, trường đại học, quân đội và thậm chí ngành công nghiệp ô tô cũng đang xem xét phương pháp Agile và các nền tảng Agile khác để tạo ra các sản phẩm sáng tạo trong môi trường không chắc chắn. Nhiều tổ chức có thể hưởng lợi từ việc quản lý dự án Agile, và đơn giản để thiết lập và sử dụng."
   },
   {
     "Id": "VBPR",
     "Name": "Lập trình VB.NET",
-    "Logo": "VBPR.png"
+    "Logo": "VBPR.png",
+    "title": "Website được biết đến đó là một trang web, là một tập hợp các trang web con, bao gồm văn bản, hình ảnh, video, flash… chỉ nằm trong một tên miền hoặc tên miền phụ lưu trữ trên các máy chủ chạy online trên đường truyền World Wide của Internet.",
+    "content": "Xây dựng hệ thống website để niêm yết thông tin giao dịch trên sàn giao dịch internet,Xây dựng hệ thống website mang lại các lợi ích trực tiếp tới hiệu quả bán hàng, giới thiệu sản phẩm, marketing cho sản phẩm mới, kết nối giữa người có nhu cầu và người bán tạo lên một sàn giao dịch internet phong phú và hấp dẫn. "
   },
   {
     "Id": "WEBU",
     "Name": "Xây dựng trang web",
-    "Logo": "WEBU.jpg"
+    "Logo": "WEBU.jpg",
+    "title": "",
+    "content": ""
   }
 ]

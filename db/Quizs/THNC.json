@@ -2,7 +2,7 @@
   {
     "Id": 26001,
     "Text": "Bộ nhớ truy nhập trực tiếp RAM được viết tắt từ, bạn sử dụng lựa chọn nào?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18002,
     "Answers": [
       { "Id": 18001, "Text": "Read Access Memory" },
@@ -14,7 +14,7 @@
   {
     "Id": 26002,
     "Text": "Việc tải file dữ liệu từ internet bị chậm là do nguyên nhân, bạn sử dụng lựa chọn nào?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18008,
     "Answers": [
       { "Id": 18005, "Text": "File có dung lượng lớn" },
@@ -26,7 +26,7 @@
   {
     "Id": 26003,
     "Text": "CPU là viết tắt của cụm từ nào, bạn sử dụng lựa chọn nào?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18012,
     "Answers": [
       {
@@ -41,7 +41,7 @@
   {
     "Id": 26004,
     "Text": "Phần mềm nào là phần mềm ứng dụng?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18016,
     "Answers": [
       { "Id": 18013, "Text": "Microsoft Powerpoint" },
@@ -53,7 +53,7 @@
   {
     "Id": 26005,
     "Text": "Để truy cập Internet, người ta dùng chương trình nào sau đây, bạn sử dụng lựa chọn nào?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18019,
     "Answers": [
       { "Id": 18017, "Text": "Microsoft Excel" },
@@ -65,7 +65,7 @@
   {
     "Id": 26006,
     "Text": "Các phần mềm dùng để nén tập tin, bạn sử dụng lựa chọn nào?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18021,
     "Answers": [
       { "Id": 18021, "Text": "Winzip, Winrar, Total Commander" },
@@ -77,7 +77,7 @@
   {
     "Id": 26007,
     "Text": "Các bộ mã dùng để gõ dấu tiếng Việt, bạn sử dụng lựa chọn nào?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18028,
     "Answers": [
       { "Id": 18025, "Text": "Unicode, X UTF-8, Vietware X" },
@@ -89,7 +89,7 @@
   {
     "Id": 26008,
     "Text": "Theo bạn, các phần mềm sau thuộc nhóm phần mềm nào: MS Word, MS Excel, MS Access, MS PowerPoint, MS , bạn sử dụng lựa chọn nào?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18030,
     "Answers": [
       { "Id": 18029, "Text": "Nhóm phần mềm hệ điều hành" },
@@ -101,7 +101,7 @@
   {
     "Id": 26009,
     "Text": "Thiết bị nhập chuẩn bao gồm gì, bạn sử dụng lựa chọn nào?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18035,
     "Answers": [
       { "Id": 18033, "Text": "Màn hình, máy in" },
@@ -113,7 +113,7 @@
   {
     "Id": 26010,
     "Text": "Để tắt máy tính ta chọn chức năng nào sau đây?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18040,
     "Answers": [
       { "Id": 18037, "Text": "Log off" },
@@ -125,7 +125,7 @@
   {
     "Id": 26011,
     "Text": "Thiết bị nào sau đây dùng để kết nối mạng?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18041,
     "Answers": [
       { "Id": 18041, "Text": "Bộ nhớ trong, Bộ nhớ ngoài" },
@@ -137,7 +137,7 @@
   {
     "Id": 26012,
     "Text": "Thiết bị nào sau đây dùng để kết nối mạng?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18047,
     "Answers": [
       { "Id": 18045, "Text": "Ram" },
@@ -149,7 +149,7 @@
   {
     "Id": 26013,
     "Text": "Trong mạng máy tính, thuật ngữ Share có ý nghĩa gì?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18049,
     "Answers": [
       { "Id": 18049, "Text": "Chia sẻ tài nguyên" },
@@ -161,7 +161,7 @@
   {
     "Id": 26014,
     "Text": "Bộ nhớ RAM và ROM là bộ nhớ gì?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18053,
     "Answers": [
       { "Id": 18053, "Text": "Primary memory" },
@@ -173,7 +173,7 @@
   {
     "Id": 26015,
     "Text": "Khái niệm hệ điều hành là gì ?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18060,
     "Answers": [
       { "Id": 18057, "Text": "Cung cấp và xử lý các phần cứng và phần mềm" },
@@ -191,7 +191,7 @@
   {
     "Id": 26016,
     "Text": "Công dụng của phím Print Screen là gì?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18064,
     "Answers": [
       { "Id": 18061, "Text": "In màn hình hiện hành ra máy in." },
@@ -202,8 +202,8 @@
   },
   {
     "Id": 26017,
-    "Text": "Chức năng Bookmark của trình duyệt web dùng để:",
-    "Mark": 1,
+    "Text": "Chức năng BookMarks của trình duyệt web dùng để:",
+    "Marks": 1,
     "AnswerId": 18066,
     "Answers": [
       { "Id": 18065, "Text": "Lưu trang web về máy tính" },
@@ -215,7 +215,7 @@
   {
     "Id": 26018,
     "Text": "Nếu không kết nối được mạng, bạn vẫn có thể thực hiện được hoạt động nào?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18072,
     "Answers": [
       { "Id": 18069, "Text": "Gửi email" },
@@ -227,7 +227,7 @@
   {
     "Id": 26019,
     "Text": "Khả năng xử lý của máy tính phụ thuộc vào … bạn sử dụng lựa chọn nào?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18076,
     "Answers": [
       {
@@ -242,7 +242,7 @@
   {
     "Id": 26020,
     "Text": "Thiết bị xuất của máy tính gồm?",
-    "Mark": 1,
+    "Marks": 1,
     "AnswerId": 18078,
     "Answers": [
       { "Id": 18077, "Text": "Bàn phím, màn hình, chuột" },

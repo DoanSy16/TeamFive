@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Trắc nghiệm Online</title>
-    <link rel="icon" href="images/logomenu.png" type="image/x-icon">
+    <link rel="icon" href="images/Team_5_icon.png" type="image/x-icon" >
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
     <!-- icon -->
     <script src="js/jquery.min.js"></script>
@@ -26,8 +26,11 @@
     <script src="https://www.gstatic.com/firebasejs/8.2.10/firebase-database.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.2.10/firebase-analytics.js"></script>
     <style>
-        body {
+        /* body {
             background: linear-gradient(-45deg, #23a6d5, #23d5ab);
+        } */
+        body {
+            background: linear-gradient(-45deg, #a1a5fc, #a1a5fc);
         }
 
         .main-container {
@@ -105,7 +108,7 @@
     </style>
 </head>
 
-<body class="fixed-sn white-skin" ng-app="myApp">
+<body class="fixed-sn white-skin" ng-app="myApp" >
     <header ng-show="timer==0">
         <div id="mySidenav" class="sidenav">
             <li> <a href="#!index" class="" ng-click="changeSearch(0)" style="height: auto;"><img style="width:80%;"
@@ -137,9 +140,9 @@
             <div class="breadcrumb-dn mr-auto">
                 <p><strong class="font-weight-bold">MENU</strong></p>
             </div>
-            <div class="name breadcrumb-dn mr-auto">
+            <!-- <div class="name breadcrumb-dn mr-auto">
                 <h1 contenteditable="false">TEAM FIVE</h1>
-            </div>
+            </div> -->
             <div class="container breadcrumb-dn {{( hide==0)?'':'hidden'}}">
                 <input class="inputsearch" type="text" placeholder="Search..." ng-change="search()" ng-model="change">
                 <div class="search"></div>
@@ -154,7 +157,7 @@
                     <div ng-show="Student==null && checkUsername==null">
                         <a class="dropdown-item" href="#!register">Đăng kí</a>
                         <a class="dropdown-item" href="#!login">Đăng nhập</a>
-                        <a class="dropdown-item" href="" ng-click="forgotPassWord()">Quên mật khẩu</a>
+                        <a class="dropdown-item" href="" ng-click="forgotPassWord()">- mật khẩu</a>
                     </div>
                     <div ng-hide="Student==null && checkUsername==null" {{(Student==null)? '' : style=" width: 140px !important;" }}>
                         <a class="dropdown-item" href="#!updateaccount">Thông tin cá nhân</a>
@@ -239,7 +242,7 @@
             </div>
         </div>
         <div class="footer-copyright text-center">
-            @ 2021 - Cao đẳng FPT Polytechnic
+            @ 2023 - Cao đẳng FPT Polytechnic
         </div>
     </footer>
 
