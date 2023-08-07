@@ -21,15 +21,13 @@ app.run(function ($rootScope, $http) {
           i++;
         });
         autoLogin();
-        
       },
       (errorObject) => {
         console.log("The read failed: " + errorObject.name);
       }
     );
-    
   }
-  
+
   $http.get("db/Subjects.json").then(function (response) {
     $rootScope.Subjects = response.data;
     $rootScope.subjects = angular.copy($rootScope.Subjects);
@@ -103,17 +101,19 @@ app.run(function ($rootScope, $http) {
     if ($rootScope.Student == null) {
       Swal.fire({
         title:
-          '<h1 style="color:red;font-weight:bold;font-size:30px">Bạn chưa đăng nhập</h1>',
+          '<h1 style="color:red;font-weight:bold;font-size:30px;">Bạn chưa đăng nhập</h1>',
         icon: "error",
         showCancelButton: true,
-        confirmButtonColor: "#d33",
-        cancelButtonColor: "#3085d6",
         confirmButtonText: "Đăng nhập",
         cancelButtonText: "Hủy",
+        showDenyButton: true,
+        denyButtonText: "Tiếp tục không cần tài khoản",
         timer: 5000,
       }).then((result) => {
-        if (result.value) {
+        if (result.isConfirmed) {
           window.location.href = "#!login";
+        } else if (result.isDenied) {
+          window.location.href = "#!viewtest/" + checkID;
         }
       });
       return;
@@ -122,7 +122,8 @@ app.run(function ($rootScope, $http) {
     }
   };
   $rootScope.forgotPassWord = async function () {
-    var pattern =/^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+    var pattern =
+      /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
     var forGotPass = null;
     const { value: text } = await Swal.fire({
       title:
@@ -177,7 +178,7 @@ app.run(function ($rootScope, $http) {
           From: "tracnghiemonlinedhs@gmail.com",
           Subject: "Mã của bạn ",
           Body: ma,
-        }).then( checkMa());
+        }).then(checkMa());
       }
     }
   };
@@ -213,33 +214,35 @@ app.run(function ($rootScope, $http) {
       }
     }
   }
-$rootScope.checkUsername=null;
+  $rootScope.checkUsername = null;
   function autoLogin() {
     //username password
     let userName = localStorage.getItem("user-name");
     let userPass = localStorage.getItem("user-pass");
-    var dbRef = firebase.database().ref().child("Students/"+userName);
-          dbRef.on(
-            "value",
-            (snapshot) => {
-              $rootScope.Student=snapshot.val();
-            },
-            (errorObject) => {
-              console.log("The read failed: " + errorObject.name);
-            }
-          );
-          let pointer = localStorage.getItem("conTro");
-          if(pointer == "#!review"){
-            pointer = "#!index";
-            //window.location.href = "#!index";
-          }
-          if(pointer==null){
-            pointer = "#!login";
-          }
-          if (pointer != "#!viewtest") {
-            window.location.href = pointer;
-          }
-
+    var dbRef = firebase
+      .database()
+      .ref()
+      .child("Students/" + userName);
+    dbRef.on(
+      "value",
+      (snapshot) => {
+        $rootScope.Student = snapshot.val();
+      },
+      (errorObject) => {
+        console.log("The read failed: " + errorObject.name);
+      }
+    );
+    let pointer = localStorage.getItem("conTro");
+    if (pointer == "#!review") {
+      pointer = "#!index";
+      //window.location.href = "#!index";
+    }
+    if (pointer == null) {
+      pointer = "#!login";
+    }
+    if (pointer != "#!viewtest") {
+      window.location.href = pointer;
+    }
   }
   $rootScope.checkMN = 0;
   $rootScope.checkMenu = function () {

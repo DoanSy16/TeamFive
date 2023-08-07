@@ -5,9 +5,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    
+
     <title>Trắc nghiệm Online</title>
-    <link rel="icon" href="images/Team_5_icon.png" type="image/x-icon" >
+    <link rel="icon" href="images/Team_5_icon.png" type="image/x-icon">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
     <!-- icon -->
     <script src="js/jquery.min.js"></script>
@@ -106,10 +106,14 @@
             background-color: #23a6d5;
             border-radius: 5px;
         }
+
+        .swal2-popup {
+            width: 400px;
+        }
     </style>
 </head>
 
-<body class="fixed-sn white-skin" ng-app="myApp" >
+<body class="fixed-sn white-skin" ng-app="myApp">
     <header ng-show="timer==0">
         <div id="mySidenav" class="sidenav">
             <li> <a href="#!index" class="" ng-click="changeSearch(0)" style="height: auto;"><img style="width:80%;"
@@ -134,9 +138,10 @@
                 </ul>
             </li>
         </div>
-        <nav class="navbar fixed-top navbar-expand-lg  double-nav " style="z-index: 10000;">
+        <nav class="navbar fixed-top navbar-expand-lg  double-nav " >
             <div class="float-left">
-                <span class="iconmenu" style="font-size:20px;cursor:pointer" ng-click="checkMenu()">{{(checkMN %2 == 0)?'&#9776;':' &times;'}}</span>
+                <span class="iconmenu" style="font-size:20px;cursor:pointer" ng-click="checkMenu()">{{(checkMN %2 ==
+                    0)?'&#9776;':' &times;'}}</span>
             </div>
             <div class="breadcrumb-dn mr-auto">
                 <p><strong class="font-weight-bold">MENU</strong></p>
@@ -145,7 +150,7 @@
                 <h1 contenteditable="false">TEAM FIVE</h1>
             </div> -->
             <div class="container breadcrumb-dn {{( hide==0)?'':'hidden'}}">
-                <input class="inputsearch" type="text" placeholder="Search..." ng-change="search()" ng-model="change">
+                <input class="inputsearch" type="text" placeholder="Tìm kiếm..." ng-change="search()" ng-model="change">
                 <div class="search"></div>
             </div>
             <div class="nav-item dropdown">
@@ -160,7 +165,8 @@
                         <a class="dropdown-item" href="#!login">Đăng nhập</a>
                         <a class="dropdown-item" href="" ng-click="forgotPassWord()">Quên mật khẩu</a>
                     </div>
-                    <div ng-hide="Student==null && checkUsername==null" {{(Student==null)? '' : style=" width: 140px !important;" }}>
+                    <div ng-hide="Student==null && checkUsername==null" {{(Student==null)? '' :
+                        style=" width: 140px !important;" }}>
                         <a class="dropdown-item" href="#!updateaccount">Thông tin cá nhân</a>
                         <a class="dropdown-item" href="#!changepassword">Đổi mật khẩu</a>
                         <a class="dropdown-item" href="" ng-click="logout()">Đăng xuất</a>
@@ -186,7 +192,7 @@
         </div>
     </main>
 
-    <footer  ng-show="timer==0" class="page-footer m-auto row justify-content-center"style="background-color:black;">
+    <footer ng-show="timer==0" class="page-footer m-auto row justify-content-center" style="background-color:black;">
         <div class="col-md-1 " style="margin-left: 20px ;margin-right: auto;">
             <a href=""><img class="mb-2" src="images/logo2.png" alt="" height="30"></a>
             <small class="d-block mb-2" style="color: red;">© 2023</small>
@@ -261,34 +267,35 @@
     <script src="APP/changepasswordCtrl.js"></script>
     <script src="APP/feedbackCtrl.js"></script>
     <script src="APP/reviewCtrl.js"></script>
-    
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
     <script type="module">
         // Import the functions you need from the SDKs you need
         import { initializeApp } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-app.js";
         import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.17.1/firebase-analytics.js";
         // TODO: Add SDKs for Firebase products that you want to use
         // https://firebase.google.com/docs/web/setup#available-libraries
-  
+
         // Your web app's Firebase configuration
         // For Firebase JS SDK v7.20.0 and later, measurementId is optional
         const firebaseConfig = {
-          apiKey: "AIzaSyAMh_HSfl1-0PSZEKfTZL8xNRBV-kp27eY",
-          authDomain: "students-517b9.firebaseapp.com",
-          databaseURL: "https://students-517b9-default-rtdb.firebaseio.com",
-          projectId: "students-517b9",
-          storageBucket: "students-517b9.appspot.com",
-          messagingSenderId: "944451943394",
-          appId: "1:944451943394:web:c54088227a5e935d2e57bb",
-          measurementId: "G-Z7CVDJBGDB",
+            apiKey: "AIzaSyAMh_HSfl1-0PSZEKfTZL8xNRBV-kp27eY",
+            authDomain: "students-517b9.firebaseapp.com",
+            databaseURL: "https://students-517b9-default-rtdb.firebaseio.com",
+            projectId: "students-517b9",
+            storageBucket: "students-517b9.appspot.com",
+            messagingSenderId: "944451943394",
+            appId: "1:944451943394:web:c54088227a5e935d2e57bb",
+            measurementId: "G-Z7CVDJBGDB",
         };
-  
+
         firebase.initializeApp(firebaseConfig);
         firebase.analytics();
-  
+
         //=========================================
         const app = initializeApp(firebaseConfig);
         const analytics = getAnalytics(app);
-      </script>
+    </script>
 </body>
 
 </html>
