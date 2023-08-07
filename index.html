@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
     <title>Trắc nghiệm Online</title>
     <link rel="icon" href="images/Team_5_icon.png" type="image/x-icon" >
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
@@ -133,7 +134,7 @@
                 </ul>
             </li>
         </div>
-        <nav class="navbar fixed-top navbar-expand-lg  double-nav" >
+        <nav class="navbar fixed-top navbar-expand-lg  double-nav " style="z-index: 10000;">
             <div class="float-left">
                 <span class="iconmenu" style="font-size:20px;cursor:pointer" ng-click="checkMenu()">{{(checkMN %2 == 0)?'&#9776;':' &times;'}}</span>
             </div>
@@ -157,7 +158,7 @@
                     <div ng-show="Student==null && checkUsername==null">
                         <a class="dropdown-item" href="#!register">Đăng kí</a>
                         <a class="dropdown-item" href="#!login">Đăng nhập</a>
-                        <a class="dropdown-item" href="" ng-click="forgotPassWord()">- mật khẩu</a>
+                        <a class="dropdown-item" href="" ng-click="forgotPassWord()">Quên mật khẩu</a>
                     </div>
                     <div ng-hide="Student==null && checkUsername==null" {{(Student==null)? '' : style=" width: 140px !important;" }}>
                         <a class="dropdown-item" href="#!updateaccount">Thông tin cá nhân</a>
@@ -169,7 +170,7 @@
         </nav>
     </header>
 
-    <main id="main" style="min-height: 500px;padding: 16px;">
+    <main id="main" style="min-height: 500px; margin-bottom: 30px;">
         <div ng-show="loading" class="loading">
             <h1> LOADING</h1>
             <span></span>
@@ -185,8 +186,8 @@
         </div>
     </main>
 
-    <footer  ng-show="timer==0" class="page-footer m-auto"style="background-color:black">
-        <div class="col-md-1 " style="margin-left: 50px;">
+    <footer  ng-show="timer==0" class="page-footer m-auto row justify-content-center"style="background-color:black;">
+        <div class="col-md-1 " style="margin-left: 20px ;margin-right: auto;">
             <a href=""><img class="mb-2" src="images/logo2.png" alt="" height="30"></a>
             <small class="d-block mb-2" style="color: red;">© 2023</small>
         </div>
@@ -241,7 +242,7 @@
                 </a>
             </div>
         </div>
-        <div class="footer-copyright text-center">
+        <div class="footer-copyright text-center" style="text-align: center !important;">
             @ 2023 - Cao đẳng FPT Polytechnic
         </div>
     </footer>
